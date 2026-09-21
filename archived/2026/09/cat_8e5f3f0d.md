@@ -7,7 +7,7 @@ t_confidence: 0.95
 t_relevance: 1
 t_signal: 1
 t_reading_minutes: 3
-horizon: read-today
+horizon: archive
 lane: news
 timestamp: 2026-09-21T01:15:04.7268996+00:00
 beat: sports
@@ -22,6 +22,8 @@ d_child_count: 0
 d_blocked: false
 d_last_touched: 2026-09-21
 d_staleness_days: 0
+t_feedback: down
+archived_at: 2026-09-21T10:57:39.7866142+00:00
 ...
 ---
 ## Summary
