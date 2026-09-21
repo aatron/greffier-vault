@@ -1,0 +1,50 @@
+- [[cat_035d1728|Germany's Merz vows to press ahead with reforms after historic state election defeat]] — NPR News · The Associated Press
+- [[cat_073bf124|35 additional victims have come forward after arrest of alleged fraudster who posed as NFL player, FBI says]] — KGW Oregon
+- [[cat_08d01664|Controversial Portland homeless overnight shelter shutters amid ongoing lawsuit]] — KGW Oregon
+- [[cat_0b2abc51|Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow]] — NPR News · The Associated Press
+- [[cat_10d223e7|Portland city councilor's past tweets expressed 'hatred' for police. What does the police chief think?]] — KGW Oregon
+- [[cat_144f738e|Federal judge rules against Trump administration, calling rollout of SNAP restrictions 'arbitrary and capricious']] — KGW Oregon
+- [[cat_197440e3|Police identify man who died after shooting in Northeast Portland Home Depot parking lot]] — KGW Oregon
+- [[cat_34ef281a|Washington County chair steps back from leadership role after giving middle finger to commissioner]] — KGW Oregon
+- [[cat_377b78dc|First week of I-5 Rose Quarter closure brings longer commutes, traffic adjustments]] — KGW Oregon
+- [[cat_458c0b5b|Missing hiker's body found in Olympic National Park]] — KGW Oregon
+- [[cat_4fc9b538|‘This is a solvable problem’: Extreme Ross Island algae bloom could help find a fix]] — KGW Oregon
+- [[cat_5256ed19|Man arrested for arson after Salem elementary school fire]] — KGW Oregon
+- [[cat_56eec823|Minor suffers injury after shots fired in Salem]] — KGW Oregon
+- [[cat_5ab5dd86|Man dead, 2 dogs rescued in Dallas house fire]] — KGW Oregon
+- [[cat_61748312|Suspect pleads guilty after triggering hours-long standoff in Portland's Old Town]] — KGW Oregon
+- [[cat_6ea8bd3e|Kaitlyn Chen makes five 3-pointers on the way to 17 points off the bench; Valkyries beat Fire 82-66]] — KGW Oregon
+- [[cat_6ff56274|Councilor Mitch Green stands by 'spicy' tweets about police, defies Portland police union's call to resign]] — KGW Oregon
+- [[cat_7430601e|1 arrested after shots fired in Battle Ground]] — KGW Oregon
+- [[cat_7f494e4b|U.S. Marshals Service arrests 3 suspects in deadly Chelan Hills Fire]] — KGW Oregon
+- [[cat_8044c86c|Portland man granted house arrest after being accused of sexually assaulting woman he met through social media]] — KGW Oregon
+- [[cat_84e7a1a1|First new Amtrak Cascades trains enter service Sept. 30]] — KGW Oregon
+- [[cat_85154592|Parkrose parents rally to keep cross-country program running despite budget cuts]] — KGW Oregon
+- [[cat_87ebe08a|Seattle mayor signs emergency response order after scrutiny over mass shooting]] — KGW Oregon
+- [[cat_8bf162df|Birdwatchers flock to Portland beach after sightings of rare bird]] — KGW Oregon
+- [[cat_8f4ab2f9|Poison suspected in deaths of ten lions in game reserve in Tanzania]] — NPR News · Kristin Wright
+- [[cat_94376c53|U.S. childcare costs are astronomical. More families are turning to grandparents]] — NPR News · Joe Hernandez
+- [[cat_97686667|3 more suspects arrested in connection with Washington's Chelan Hills Fire]] — KGW Oregon
+- [[cat_98697b3b|PHOTOS: The precarious life of fisherfolk]] — NPR News · Kamala Thiagarajan
+- [[cat_9b80ffa9|Firefighters battle intense blaze at Sweet Home residence]] — KGW Oregon
+- [[cat_a092caef|In New Orleans, an empty building becomes a free store — and roller skating rink]] — NPR News · Debbie Elliott
+- [[cat_a760ed2b|NPR's College Podcast Challenge is back for 2026]] — NPR News · Steve Drummond
+- [[cat_ab872979|Elected leaders call for Washington County chair to resign after giving middle finger to commissioner]] — KGW Oregon
+- [[cat_adad1333|Suspect arrested after Stayton shooting leaves man hospitalized, city says]] — KGW Oregon
+- [[cat_b05a6cb0|Suspect in more than 20 burglaries of Portland food carts, other businesses arrested, faces 37 charges]] — KGW Oregon
+- [[cat_b1a7d4e2|Pedestrian struck and killed by car in Vancouver]] — KGW Oregon
+- [[cat_b5a51f84|Explore Round Lake, Lower Falls and the trails of Lacamas Park in Camas]] — KGW Oregon
+- [[cat_bf06dfe9|Portland City Council unanimously votes on data center NDA resolution, considers moratorium]] — KGW Oregon
+- [[cat_c92696a9|Friday Night Football: September 18, 2026]] — KGW Oregon
+- [[cat_ccfb7280|Nike staff accused of trying to cover up teen athlete's sexual assault]] — KGW Oregon
+- [[cat_ce58e43c|Salem wrecking yard fire under investigation after 47 vehicles involved]] — KGW Oregon
+- [[cat_ea90daa0|Motorcyclist dead after crashing into van, hitting pole in Southeast Portland]] — KGW Oregon
+- [[cat_eaaec188|Amazon plans drone delivery as it expands its Portland presence]] — KGW Oregon
+- [[cat_ed53e0a0|Data centers, ICE and budget issues shape race for Washington County chair]] — KGW Oregon
+- [[cat_ee367b70|Seattle is prime habitat for coyotes, UW researchers find]] — KGW Oregon
+- [[cat_f1cddd8f|Washington County commissioners demand chair resign after flipping off fellow commissioner]] — KGW Oregon
+- [[cat_f33e6820|Federal immigration agent shoots and injures man in Austin, Texas]] — NPR News · Sergio Martínez-Beltrán
+- [[cat_f63486d0|PSU study examines barriers people face while navigating homeless services in Multnomah County]] — KGW Oregon
+- [[cat_f7f67894|Trump says his D.C. arch will serve as 'military complex' with snipers and drones]] — NPR News · Kristin Wright
+- [[cat_fb4caa2b|Fields Park in Northwest Portland reopens more than 6 weeks after Centennial Mills fire]] — KGW Oregon
+- [[cat_fdeb393c|Judge orders Fox to hand over hundreds of documents in shareholders' case]] — NPR News · Maddy Lauria

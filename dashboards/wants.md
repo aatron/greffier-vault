@@ -1,0 +1,1 @@
+- [[want_rust_async|rust async]] (threshold 0.70)

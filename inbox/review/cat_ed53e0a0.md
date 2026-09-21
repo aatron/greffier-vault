@@ -1,0 +1,19 @@
+---
+type: cat
+id: cat_ed53e0a0
+title: Data centers, ICE and budget issues shape race for Washington County chair
+resource: https://www.kgw.com/article/news/local/straight-talk-portland/data-centers-ice-budget-issues-shape-race-washington-county-chair/283-01ab92ab-42cb-4f04-87c7-9e24be172a00
+t_confidence: 0.6499999999999999
+t_relevance: 0.7
+t_signal: 0.6
+t_reading_minutes: 1
+horizon: read-today
+lane: news
+timestamp: 2026-09-21T01:15:05.1219919+00:00
+beat: local
+t_source: source_kgw
+...
+---
+## Summary
+
+Summary: Data centers, ICE and budget issues shape race for Washington County chair

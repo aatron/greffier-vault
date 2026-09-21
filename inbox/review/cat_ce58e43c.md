@@ -1,0 +1,19 @@
+---
+type: cat
+id: cat_ce58e43c
+title: Salem wrecking yard fire under investigation after 47 vehicles involved
+resource: https://www.kgw.com/article/news/local/marion-county/fire-engulfs-vehicles-salem-junkyard/283-7b895683-db8c-49a0-b047-5525235698b5
+t_confidence: 0.6499999999999999
+t_relevance: 0.7
+t_signal: 0.6
+t_reading_minutes: 1
+horizon: read-today
+lane: news
+timestamp: 2026-09-21T01:15:04.9233529+00:00
+beat: local
+t_source: source_kgw
+...
+---
+## Summary
+
+Summary: Salem wrecking yard fire under investigation after 47 vehicles involved

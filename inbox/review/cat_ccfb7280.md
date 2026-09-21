@@ -1,0 +1,19 @@
+---
+type: cat
+id: cat_ccfb7280
+title: Nike staff accused of trying to cover up teen athlete's sexual assault
+resource: https://www.kgw.com/article/news/crime/nike-staff-accused-trying-to-cover-up-teen-athletes-sexual-assault/283-c10bc24d-7da8-49bf-94ec-c17ec19dc5cb
+t_confidence: 0.6499999999999999
+t_relevance: 0.7
+t_signal: 0.6
+t_reading_minutes: 1
+horizon: read-today
+lane: news
+timestamp: 2026-09-21T01:15:04.9220562+00:00
+beat: local
+t_source: source_kgw
+...
+---
+## Summary
+
+Summary: Nike staff accused of trying to cover up teen athlete's sexual assault
