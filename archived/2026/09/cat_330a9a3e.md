@@ -7,10 +7,12 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: shopping
 timestamp: 2026-09-21T00:24:34.7039167+00:00
 t_source: source_humble_software
+t_feedback: down
+archived_at: 2026-09-21T11:11:51.7577393+00:00
 ...
 ---
 ## Summary
