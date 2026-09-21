@@ -7,13 +7,15 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-21T01:15:03.4432845+00:00
 t_source: source_hn
 author: dalvrosa
 t_suggested_tags:
 - topic/typescript
+t_feedback: up
+archived_at: 2026-09-21T13:49:41.4776591+00:00
 ...
 ---
 ## Summary
