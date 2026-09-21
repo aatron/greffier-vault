@@ -1,8 +1,15 @@
+- [[cat_005ae597|Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models (The Information)]] — Techmeme
+- [[cat_071dca0d|Transformers Explained Visually]] — Hacker News Frontpage · aray07
+- [[cat_0a66b44c|Frontier AI on Your Own Hardware]] — Hacker News Frontpage · pretext
 - [[cat_10aa6297|Attention is all you have]] — Hacker News Frontpage · zer0tonin
 - [[cat_12c9151c|Googlebook hardware hands-on: Intel Core Ultra Panther Lake or Qualcomm Snapdragon X/X1 Elite CPUs, 16GB to 64GB of RAM, high-resolution OLED displays, and more (Kyle Kucharski/ZDNET)]] — Techmeme
 - [[cat_173a8b0b|pedro-pscunha/guideme-rust - Judgments from TypeSafe Jev that read like Rust control flow: a yes/no is an if, a choice is an exhaustive match, a score is a comparison.]]
+- [[cat_1a59de3d|Avoiding the babbling-idiot failure in a time-triggered communication system]] — Hacker News Frontpage · ronfriedhaber
 - [[cat_25363bc9|China has made AI a national mission, but local workers' fear of displacement mirrors worries abroad, and potential for social unrest may force CCP to slow down (Michael Schuman/The Atlantic)]] — Techmeme
+- [[cat_2a0c92bf|mingley/partitionline - Pure-Rust Apache Kafka client and protocol implementation]]
+- [[cat_2bfa8131|The Advisory Group on Mathematics and Artificial Intelligence]] — Hacker News Frontpage · digital55
 - [[cat_2ffddde7|An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more (John Thornhill/Financial Times)]] — Techmeme
+- [[cat_30223f66|OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances (OpenAI)]] — Techmeme
 - [[cat_329cbf7c|US Treasury Secretary Scott Bessent says OpenAI's Hugging Face hacking incident in July "is the responsibility of the OpenAI management, not a bunch of agents" (Yash Roy/Bloomberg)]] — Techmeme
 - [[cat_33e5c9a9|Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents]]
 - [[cat_34d50657|Announcing .NET 11 Release Candidate 1]] — .NET Blog · .NET Team
@@ -15,11 +22,14 @@
 - [[cat_37b68f98|yukimemi/rvpm - Fast Neovim plugin manager with pre-compiled loader and merge optimization]]
 - [[cat_3948a9f4|The EU proposes rules requiring data centers with a capacity of 500+ kW to disclose their energy and water efficiency using an EU-designed labelling system (Kate Abnett/Reuters)]] — Techmeme
 - [[cat_396e78f0|What Sun got wrong]] — Hacker News Frontpage · chmaynard
+- [[cat_39d85d2c|CBP suspends all personal prescription importation Oct 22]] — Hacker News Frontpage · burnt-resistor
 - [[cat_3a06edd3|Share your .NET story with the community]] — .NET Blog · Luis Quintanilla
+- [[cat_3a62716f|The NASA/ESA Mars Sample Return mission has been canceled]] — Hacker News Frontpage · Muhammad523
 - [[cat_3ac4a205|Dew Drop - August 26, 2026 (#4740)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
 - [[cat_3af980a4|The Morning Brew #3993]] — The Morning Brew · Chris Alcock
 - [[cat_3bf8356f|.NET Conf 2026 Community Days Call for Presenters Is Open]] — .NET Blog · Javier Lozano, Chris Sfanos, Jon Galloway
 - [[cat_3d66724e|Ireland's DPC fines Google €403M over how it processed location data after complaints from European consumer rights groups, and gives it six months to comply (Olivia Fletcher/Bloomberg)]] — Techmeme
+- [[cat_3e418968|Roboharm: Do frontier robot policies refuse unsafe instructions?]] — Hacker News Frontpage · msadowski
 - [[cat_3ec38386|.NET and .NET Framework September 2026 servicing releases updates]] — .NET Blog · Rahul Bhandari (MSFT), Tara Overfield
 - [[cat_3ecac137|Dew Drop - September 10, 2026 (#4750)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
 - [[cat_3ee0fbc8|Dew Drop - August 17, 2026 (#4734)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
@@ -34,12 +44,14 @@
 - [[cat_44f22571|Show HN: Radius – A Meetup.com Alternative]] — Hacker News Frontpage · radius89
 - [[cat_45ad53f1|Dew Drop - August 27, 2026 (#4741)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
 - [[cat_46bc2f88|.NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More]] — NuGet (.NET Blog) · .NET Team
+- [[cat_4771fda7|AI coding has made CI a bottleneck, so we reworked ours to keep up]] — Hacker News Frontpage · julian_digital
 - [[cat_47d67434|Deterministic Core, Non-Deterministic Shell]] — Hacker News Frontpage · brandon_bot
 - [[cat_48b8adb4|This Digital Radio Gets Messages to the World’s Remotest Locations]] — Hacker News Frontpage · SamuraiLion
 - [[cat_48c83f51|As Xi Jinping visits Washington, Chinese economists warn that Beijing's heavy focus on AI comes at the expense of addressing a severe broader economic crisis (Li Yuan/New York Times)]] — Techmeme
 - [[cat_499d612f|Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++]] — Hacker News Frontpage · metrofun
 - [[cat_4ad53b37|Samsung is expected to more than double output of its HBM4 and HBM4E DRAM]] — Hacker News Frontpage · giuliomagnifico
 - [[cat_4b1daeda|AX – Google’s Open Agentic Orchestrator]] — Hacker News Frontpage · blazarquasar
+- [[cat_4ba9c49f|Ahead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems (Maria Curi/Axios)]] — Techmeme
 - [[cat_4bb18340|ShinyHunters hijacked the dark web site of cybercrime gang Cl0p, set an eight-figure extortion demand, describing the amount as "2.333%" of Cl0p's net worth (Alexander Martin/The Record)]] — Techmeme
 - [[cat_4cdc3e8e|Meta challenges Ofcom's OSA categorization of WhatsApp and Instagram imposing additional regulations; Roblox and Quora are also challenging their categorization (Daniel Thomas/Financial Times)]] — Techmeme
 - [[cat_4d73a6a7|macOS 27: Workaround to avoid downloading AI models and save storage]] — Hacker News Frontpage · ano-ther
@@ -88,6 +100,7 @@
 - [[cat_6d90d9f4|Apple Mac mini review]] — Hacker News Frontpage · throw0101c
 - [[cat_6e469d32|bpcakes/batter - Native operational foundation for Rust/Tokio: owned lifecycle, deadlines, retries, Axum boundaries, PostgreSQL transaction scopes, Runledger, and Runlimit.]]
 - [[cat_6f9a6e72|NEC V20 CPU: A bit of pep for an XT]] — Hacker News Frontpage · jnord
+- [[cat_6fc828b2|OpenAI says automated research could improve alignment, but "fully autonomous RSI is not happening today" and shouldn't be pursued unless it can be done safely (OpenAI)]] — Techmeme
 - [[cat_70023f1f|Querying Roslyn syntax trees with XPath]] — Meziantou's blog · Gérald Barré
 - [[cat_70747762|Jbaws4177/background-agents - Automate development tasks with persistent background agents that manage code, tests, and pull requests in isolated sandboxes.]]
 - [[cat_707878f4|Test what you ship: MSTest and Native AOT]] — .NET Blog · Amaury Levé
@@ -100,6 +113,7 @@
 - [[cat_757f925c|Amiga Unix, Again]] — Hacker News Frontpage · doener
 - [[cat_75918341|AI chatbots give wrong answers to financial queries 'most of the time']] — Hacker News Frontpage · 1vuio0pswjnm7
 - [[cat_762d6c56|Dew Drop - September 2, 2026 (#4745)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
+- [[cat_76b32a13|In Search of a Compositional Theory of Self-Stabilization]] — Hacker News Frontpage · matt_d
 - [[cat_76ba3a10|Alibaba's Damo Academy open sources RADAR, a medical vision-language model it says can read CT scans and identify ~150 abdominal conditions, including cancers (Ann Cao/South China Morning Post)]] — Techmeme
 - [[cat_782bc915|Enable SHA Pinning for GitHub Actions Across Personal Repositories]] — Meziantou's blog · Gérald Barré
 - [[cat_786e75e5|Amiga Unix, Again]] — Hacker News Frontpage · doener
@@ -120,6 +134,7 @@
 - [[cat_85bf1dae|Sources: Polymarket CEO Shayne Coplan dismissed concerns after fraudsters tried to launder $10M+ from stolen cards to clean accounts via its wagers in February (Wall Street Journal)]] — Techmeme
 - [[cat_85efc0fa|XPath for custom types in .NET]] — Meziantou's blog · Gérald Barré
 - [[cat_87d26e83|The Hierarchy of Money]] — Hacker News Frontpage · gwgundersen
+- [[cat_89089818|Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs (Bloomberg)]] — Techmeme
 - [[cat_89140b6a|Jensen Huang says AI leaders calling for regulation don't want new legislation, but to be "relieved of the laws we do have" because of "ulterior reasons" (Truman Dickerson/Business Insider)]] — Techmeme
 - [[cat_897aa52c|Big Tech is increasingly using residual value guarantees for off-balance sheet AI spend, giving Nvidia and Broadcom a way to support their customers' purchases (Financial Times)]] — Techmeme
 - [[cat_8acca220|Get a Unicode character name from a Rune in .NET]] — Meziantou's blog · Gérald Barré
@@ -131,6 +146,7 @@
 - [[cat_9260710f|Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit (Demetri Sevastopulo/Financial Times)]] — Techmeme
 - [[cat_955a0648|apache/asyncband - This crate provides concurrency control and async coordination primitives that are runtime agnostic.]]
 - [[cat_970f166b|Querying Roslyn syntax trees with XPath]] — Meziantou's blog · Gérald Barré
+- [[cat_97c632a2|Turn off and restrict access to Apple Intelligence features on Mac]] — Hacker News Frontpage · alwillis
 - [[cat_98977b10|Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich]] — Hacker News Frontpage · xabd
 - [[cat_9ac3fca5|MediaTek unveils the Dimensity CX C10 Max, a 3nm TSMC N3 flagship SoC designed for Google's upcoming Googlebook lineup, with an 8-core CPU and an 11-core GPU (Jake Roach/Tom's Hardware)]] — Techmeme
 - [[cat_9b7b1c8e|AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures (Owen Walker/Financial Times)]] — Techmeme
@@ -160,6 +176,7 @@
 - [[cat_acb98df7|ZuckOff Know when a camera is in the room]] — Hacker News Frontpage · Bluestein
 - [[cat_acbaa586|Show HN: I made an automated day-by-day itinerary organizer for my trip to Spain]]
 - [[cat_acc07e1a|Dew Drop - September 21, 2026 (#4753)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
+- [[cat_ae02d669|Intel closes up 12%, AMD 10%, and Arm 17% on Monday amid investor optimism that Meta's Muse could boost CPU demand; AMD's market cap tops $1T for the first time (Adam Clark/Barron's Online)]] — Techmeme
 - [[cat_ae03da06|I am often wrong]] — Hacker News Frontpage · bcherny
 - [[cat_af28419e|Show HN: Aura – a Rust agent that investigates and fixes production incidents]]
 - [[cat_b17204a5|Ask HN: Is it impossible to disable Siri on macOS 27?]] — Hacker News Frontpage · semidror
@@ -172,6 +189,7 @@
 - [[cat_b6c0f70a|Python Workers are now generally available]] — Hacker News Frontpage · torutofu
 - [[cat_b7035bf7|.NET Conf 2026 – Save the Date]] — .NET Blog · Jon Galloway
 - [[cat_b7b535e9|Grim Fandango Puzzle Document (1996) [pdf]]] — Hacker News Frontpage · kelseyfrog
+- [[cat_b7c27df7|Xiaomi MiMo v2.6]] — Hacker News Frontpage · volf_
 - [[cat_b80687f7|Alibaba releases Qwen-Image-2.1, a 7B open-weight model it says outperforms most closed-source models, with native transparency and up to ten reference images (Qwen)]] — Techmeme
 - [[cat_b8cc0aa8|Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents]] — Hacker News Frontpage · foremerge
 - [[cat_b8f6073d|Indeed: data center roles in the US offer a ~42% pay premium for hourly maintenance and installation workers compared with similar jobs at other businesses (Owen Tucker-Smith/Wall Street Journal)]] — Techmeme
@@ -179,6 +197,7 @@
 - [[cat_bf032172|Dew Drop - September 11, 2026 (#4751)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
 - [[cat_bf8574b6|After hacking incidents and the industry's existential risk warnings, we need a regulatory ban on RSI, as competition drives unchecked autonomous acceleration (Ezra Klein/New York Times)]] — Techmeme
 - [[cat_bfbc0907|Limit what NuGet packages can do in your project]] — Meziantou's blog · Gérald Barré
+- [[cat_c125e29d|US halts flights at busy East Coast airports, says fiber line cut]] — Hacker News Frontpage · allanbreyes
 - [[cat_c39f3cd7|Dew Drop - August 27, 2026 (#4741)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
 - [[cat_c3c61b68|Show HN: dnswer – browser-based DNS change approval and multi-provider sync]]
 - [[cat_c4c12d4f|M5 Ultra Mac Studio Review]] — Hacker News Frontpage · piotrgrabowski
@@ -205,20 +224,24 @@
 - [[cat_d6dc3604|Sources: SoftBank is looking to issue $10B and €1B in debt for its OpenAI investment, in what would be one of the biggest junk bond sales ever (Bloomberg)]] — Techmeme
 - [[cat_d72b7618|.NET Conf 2026 – Save the Date]] — .NET Blog · Jon Galloway
 - [[cat_d76e2b6a|China has made AI a national mission, but local workers' fear of displacement mirrors worries abroad, and potential for social unrest may force CCP to slow down (Michael Schuman/The Atlantic)]] — Techmeme
+- [[cat_d7c7d3a5|Sensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI's 773K in the same post-launch period; META jumps 12%+ (Bloomberg)]] — Techmeme
 - [[cat_d8de87b9|Adding a Clone method to a C# record]] — Meziantou's blog · Gérald Barré
 - [[cat_d8fa3e07|How we ended up rewriting NuGet Restore in .NET 9]] — NuGet (.NET Blog) · The NuGet Team
 - [[cat_d9817ea7|AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures (Owen Walker/Financial Times)]] — Techmeme
 - [[cat_d987a93a|Amazon says it blocked Meta's Muse AI assistant from accessing Amazon.com to shop on users' behalf, citing ToS violations, security risks, and merchant consent (Todd Bishop/GeekWire)]] — Techmeme
 - [[cat_d9e68533|An interview with Google SVP of Devices Rick Osterloh on Googlebooks, which he calls "the ultimate focusing move" for Google, a potential Pixel laptop, and more (David Pierce/The Verge)]] — Techmeme
 - [[cat_da1ff3b6|Kev: Tiny Jev-like family of decision models built on top of Qwen3.5]] — Hacker News Frontpage · tosh
+- [[cat_da2acc6b|California Gov. Gavin Newsom signs seven bills aimed at regulating data centers, imposing new requirements on electricity costs, water use, and local oversight (Nichola Groom/Reuters)]] — Techmeme
 - [[cat_da9f39c6|The Morning Brew #3995]] — The Morning Brew · Chris Alcock
 - [[cat_dab321c3|Yazi: Fast terminal file manager written in Rust, based on async I/O]]
 - [[cat_dac00f1e|Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents]]
 - [[cat_dedef688|Yazi: Fast terminal file manager written in Rust, based on async I/O]]
+- [[cat_df325ab5|Show HN: A website that tracks US food prices every day]] — Hacker News Frontpage · hubraumhugo
 - [[cat_df91d377|The Morning Brew #3995]] — The Morning Brew · Chris Alcock
 - [[cat_dff04534|Adaptive, which sells accounting software to construction contractors, raised a $30M Series B led by Tidemark, bringing its total raised to $57M (Ryan Lawler/Axios)]] — Techmeme
 - [[cat_e0056f6c|.NET and .NET Framework September 2026 servicing releases updates]] — .NET Blog · Rahul Bhandari (MSFT), Tara Overfield
 - [[cat_e12c9bbd|China has made AI a national mission, but local workers' fear of displacement mirrors worries abroad, and potential for social unrest may force CCP to slow down (Michael Schuman/The Atlantic)]] — Techmeme
+- [[cat_e1667199|Sources: SoftBank's SB Energy has delayed its IPO, originally planned for this month, as investors question the company's sought-after valuation of $50B+ (Maureen Farrell/New York Times)]] — Techmeme
 - [[cat_e16f4280|jiangzhe/doradb - DoraDB - Async Rust storage engine]]
 - [[cat_e17cf1d2|Dew Drop - August 24, 2026 (#4739)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
 - [[cat_e1801216|Chinese DRAM chipmaker CXMT says its new fifth-gen technology platform enters mass production and unveils two 24Gb LPDDR5X phone memory products built on it (Reuters)]] — Techmeme
@@ -226,6 +249,7 @@
 - [[cat_e3c88bb0|Dew Drop - September 1, 2026 (#4744)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
 - [[cat_e3ce590e|Announcing .NET 10]] — NuGet (.NET Blog) · .NET Team
 - [[cat_e44897a2|The Morning Brew #3993]] — The Morning Brew · Chris Alcock
+- [[cat_e71b1a89|Why does mathmain need an encrypted loader?]] — Hacker News Frontpage · abhisek
 - [[cat_e7f40849|Enable SHA Pinning for GitHub Actions Across Personal Repositories]] — Meziantou's blog · Gérald Barré
 - [[cat_e8348839|holecardvoltampere165/teleFeed - Fetch public Telegram channel posts and export them as structured JSON files with automated GitHub Actions updates.]]
 - [[cat_e8bd564d|Dew Drop - September 8, 2026 (#4748)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
@@ -242,6 +266,7 @@
 - [[cat_f49c2ff3|Sources: DeepSeek CEO Liang Wenfeng says training on Huawei chips is one of DeepSeek's biggest bets and Huawei is set to deliver training chips in Q4 or Q1 2027 (The Information)]] — Techmeme
 - [[cat_f5c3736e|Winning the Visa Lottery]] — Hacker News Frontpage · neehao
 - [[cat_f6120996|Alibaba releases Qwen-Image-2.1, a 7B open-weight model it says outperforms most closed-source models, with native transparency and up to ten reference images (Qwen)]] — Techmeme
+- [[cat_f6c2d545|Apple Copland D11E4 Booting in the Browser]] — Hacker News Frontpage · luu
 - [[cat_f7e5d65d|Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime]] — NuGet (.NET Blog) · .NET Team
 - [[cat_f81b3248|ZuckOff Is a Free App That Sees Meta Glasses Before They See You]] — Hacker News Frontpage · choult
 - [[cat_f898139c|Heretic removes restrictions from language models]] — Hacker News Frontpage · Bluestein
