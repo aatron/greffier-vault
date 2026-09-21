@@ -1,0 +1,20 @@
+---
+type: cat
+id: cat_2ffddde7
+title: An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more (John Thornhill/Financial Times)
+resource: https://www.techmeme.com/260920/p7#a260920p7
+t_confidence: 0.6499999999999999
+t_relevance: 0.7
+t_signal: 0.6
+t_reading_minutes: 1
+horizon: read-today
+lane: tech
+timestamp: 2026-09-21T00:37:27.3429202+00:00
+t_source: source_techmeme
+t_suggested_tags:
+- topic/typescript
+...
+---
+## Summary
+
+Summary: An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more (John Thornhill/Financial Times)
