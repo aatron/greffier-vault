@@ -1,17 +1,6 @@
 - [[cat_0c420c89|Controversial Portland homeless overnight shelter shutters amid ongoing lawsuit]] — KGW Oregon
-- [[cat_144f738e|Federal judge rules against Trump administration, calling rollout of SNAP restrictions 'arbitrary and capricious']] — KGW Oregon
-- [[cat_165ca1fb|In New Orleans, an empty building becomes a free store — and roller skating rink]] — NPR News · Debbie Elliott
-- [[cat_197440e3|Police identify man who died after shooting in Northeast Portland Home Depot parking lot]] — KGW Oregon
-- [[cat_1f6064e9|Salem wrecking yard fire under investigation after 47 vehicles involved]] — KGW Oregon
-- [[cat_25165e4b|Federal judge rules against Trump administration, calling rollout of SNAP restrictions 'arbitrary and capricious']] — KGW Oregon
-- [[cat_26a86d07|Crews contain garage fire north of Keizer]] — KGW Oregon
-- [[cat_29576a34|3 more suspects arrested in connection with Washington's Chelan Hills Fire]] — KGW Oregon
-- [[cat_2974e7c7|Federal immigration agent shoots and injures man in Austin, Texas]] — NPR News · Sergio Martínez-Beltrán
-- [[cat_298dcafe|Elected leaders call for Washington County chair to resign after giving middle finger to commissioner]] — KGW Oregon
-- [[cat_2ad491cb|Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on]] — NPR News · Sam Gringlas
-- [[cat_2e26e531|Friday Night Football: September 18, 2026]] — KGW Oregon
-- [[cat_34ef281a|Washington County chair steps back from leadership role after giving middle finger to commissioner]] — KGW Oregon
-- [[cat_37393678|Poison suspected in deaths of ten lions in game reserve in Tanzania]] — NPR News · Kristin Wright
+- [[cat_2b4029fc|Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal]] — NPR News · David Folkenflik
+- [[cat_33935024|Police called to clash between protesters outside the Sports Bra]] — KGW Oregon
 - [[cat_377b78dc|First week of I-5 Rose Quarter closure brings longer commutes, traffic adjustments]] — KGW Oregon
 - [[cat_3b618367|The data center backlash is reshaping American politics — one community at a time]] — NPR News · Scott Neuman
 - [[cat_4331a820|Motorcyclist dead after crashing into van, hitting pole in Southeast Portland]] — KGW Oregon
@@ -21,6 +10,7 @@
 - [[cat_5256ed19|Man arrested for arson after Salem elementary school fire]] — KGW Oregon
 - [[cat_56eec823|Minor suffers injury after shots fired in Salem]] — KGW Oregon
 - [[cat_5ab5dd86|Man dead, 2 dogs rescued in Dallas house fire]] — KGW Oregon
+- [[cat_5ac6ca28|How a national farm leader is dealing with record diesel prices]] — NPR News · Michel Martin
 - [[cat_5b8f10d2|Councilor Mitch Green stands by 'spicy' tweets about police, defies Portland police union's call to resign]] — KGW Oregon
 - [[cat_5d6d9325|Portland man granted house arrest after being accused of sexually assaulting woman he met through social media]] — KGW Oregon
 - [[cat_61748312|Suspect pleads guilty after triggering hours-long standoff in Portland's Old Town]] — KGW Oregon
@@ -31,6 +21,7 @@
 - [[cat_94376c53|U.S. childcare costs are astronomical. More families are turning to grandparents]] — NPR News · Joe Hernandez
 - [[cat_b1a7d4e2|Pedestrian struck and killed by car in Vancouver]] — KGW Oregon
 - [[cat_bb4f8beb|First new Amtrak Cascades trains enter service Sept. 30]] — KGW Oregon
+- [[cat_c104e928|CNN, MS NOW and Politico sue Trump after being barred from White House]] — NPR News · David Folkenflik
 - [[cat_c3453bd4|Fields Park in Northwest Portland reopens more than 6 weeks after Centennial Mills fire]] — KGW Oregon
 - [[cat_c6d67f48|Police identify man who died after shooting in Northeast Portland Home Depot parking lot]] — KGW Oregon
 - [[cat_ccfb7280|Nike staff accused of trying to cover up teen athlete's sexual assault]] — KGW Oregon

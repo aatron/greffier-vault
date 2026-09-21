@@ -79,3 +79,30 @@
 - discovery proposals: 0
 - rollup: complete
 
+
+- source_katu marked unhealthy after 3 consecutive fetch failures (HTTP 404)
+
+
+- source_ripcity marked unhealthy after 3 consecutive fetch failures (HTTP 403)
+
+
+## Triage 2026-09-21 17:01:07 UTC
+- processed: 41
+- auto-filed: 0
+- today budget selected: 0
+- tokens (est): 23370
+
+
+## Discovery 2026-09-21T17:01:14.2000664+00:00
+- park domain: github.com citations=6 reason=no-feed
+- demote source: source_katu reason=unhealthy domain=katu.com
+- demote source: source_ripcity reason=unhealthy domain=ripcityproject.com
+
+## Run 2026-09-21 17:01:14 UTC
+- ingest staged: 36
+- want-sweep staged: 5
+- triage processed: 41
+- shopping archived: 0 (checked 6)
+- discovery proposals: 0
+- rollup: complete
+
