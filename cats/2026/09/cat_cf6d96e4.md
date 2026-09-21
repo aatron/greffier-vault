@@ -1,0 +1,29 @@
+---
+type: cat
+id: cat_cf6d96e4
+title: Valkyries Cruise Past Fire for Comfortable Win
+resource: https://www.blazersedge.com/portland-fire-wnba/116220/portland-fire-golden-state-valkyries-score-recap-wnba-news-frieda-buhner-carla-leite-kayla-thornton
+t_confidence: 0.95
+t_relevance: 1
+t_signal: 1
+t_reading_minutes: 3
+horizon: read-today
+lane: news
+timestamp: 2026-09-21T05:00:37.9732138+00:00
+beat: sports
+t_source: source_blazersedge
+author: JoeMoore
+d_effective_priority: 2
+d_open_tasks_own: 0
+d_open_tasks_tree: 0
+d_percent_complete: 0
+d_depth: 0
+d_child_count: 0
+d_blocked: false
+d_last_touched: 2026-09-21
+d_staleness_days: 0
+...
+---
+## Summary
+
+Valkyries Cruise Past Fire for Comfortable Win

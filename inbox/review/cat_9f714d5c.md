@@ -1,0 +1,22 @@
+---
+type: cat
+id: cat_9f714d5c
+title: Build Your Own AI Agent Harness in C#, the MafClaw Live Series
+resource: https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/
+t_confidence: 0.6499999999999999
+t_relevance: 0.7
+t_signal: 0.6
+t_reading_minutes: 1
+horizon: read-today
+lane: tech
+timestamp: 2026-09-21T05:00:37.9211400+00:00
+t_source: source_dotnet
+author: Bruno Capuano
+t_suggested_tags:
+- topic/csharp
+- topic/dotnet
+...
+---
+## Summary
+
+Summary: Build Your Own AI Agent Harness in C#, the MafClaw Live Series

@@ -1,5 +1,6 @@
 - [[cat_01ff98dd|Crawling Through the Dungeons]] — Humble Bundle Games
 - [[cat_03b93029|Audit by ACI Learning]] — Humble Bundle Software
+- [[cat_040367d3|Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects]] — Humble Bundle Software
 - [[cat_0469c777|- Sniper Elite: Classics Collection]] — Humble Bundle Games
 - [[cat_05913bf8|Backrooms and Liminal World Builder Bundle]] — Humble Bundle Software
 - [[cat_05946655|Ultimate Fantasy Miniatures Bundle]] — Humble Bundle Software
@@ -9,10 +10,16 @@
 - [[cat_0ddcc4fe|Run It Back - Roguelikes Bundle]] — Humble Bundle Games
 - [[cat_0e89b6ea|Open World Essentials II]] — Humble Bundle Software
 - [[cat_10dd32a8|BUILD YOUR DREAM HOME - The Ultimate 3D CAD Bundle]] — Humble Bundle Software
+- [[cat_11bdfe57|Big Blast'n Sounds for Game Devs]] — Humble Bundle Software
+- [[cat_151d279c|IGN 30th Anniversary Bundle]] — Humble Bundle Games
 - [[cat_17dcec8c|Industrial Lands]] — Humble Bundle Software
 - [[cat_18b5f482|Front End Web Development Bootcamp Bundle]] — Humble Bundle Software
+- [[cat_196a3282|Best of Leartes - Gigantic Game Dev Assets & Tools Megabundle]] — Humble Bundle Software
 - [[cat_19bac494|Freedom to Create with COREL Graphics Suite 2025]] — Humble Bundle Software
+- [[cat_1f4384f4|Cyberpunk Audio Cache]] — Humble Bundle Software
+- [[cat_219ae74b|BUILD YOUR DREAM HOME - The Ultimate 3D CAD Bundle]] — Humble Bundle Software
 - [[cat_22b417dc|Animate Like a Pro with Moho PRO]] — Humble Bundle Software
+- [[cat_23a0abcb|Back to School Linux, Red Hat, Kubernetes and Cybersecurity Certification Bundle with Practice Exams]] — Humble Bundle Software
 - [[cat_26264af8|Mega Man: Recharged Collection]] — Humble Bundle Games
 - [[cat_26bf2c62|Run It Back - Roguelikes Bundle]] — Humble Bundle Games
 - [[cat_27bd752c|JROTools Pro Photobash Reference Megapack]] — Humble Bundle Software
@@ -26,9 +33,16 @@
 - [[cat_341a9093|Big Blast'n Sounds for Game Devs]] — Humble Bundle Software
 - [[cat_360c0315|Garbage Dwellers]] — Humble Bundle Games
 - [[cat_3937c617|Freedom to Create with COREL Graphics Suite 2025]] — Humble Bundle Software
+- [[cat_3c1f723e|POLY Game Dev Assets Collection #3]] — Humble Bundle Software
+- [[cat_3c7f27f6|Run It Back - Roguelikes Bundle]] — Humble Bundle Games
 - [[cat_3d6afe36|Voice Vault: The ultimate collection of human-made voice lines]] — Humble Bundle Software
 - [[cat_3e6e1102|IGN 30th Anniversary Bundle]] — Humble Bundle Games
+- [[cat_3e9b894b|Indies in Space]] — Humble Bundle Games
+- [[cat_40af18c9|Voice Vault: The ultimate collection of human-made voice lines]] — Humble Bundle Software
+- [[cat_417c6b81|Mega Man: Recharged Collection]] — Humble Bundle Games
 - [[cat_43d97bd8|Indies in Space]] — Humble Bundle Games
+- [[cat_462e76aa|Backrooms and Liminal World Builder Bundle]] — Humble Bundle Software
+- [[cat_472e021b|Agile in Action: Scrum, Jira & AI Project Management]] — Humble Bundle Software
 - [[cat_48c7d22c|Voice Vault: The ultimate collection of human-made voice lines]] — Humble Bundle Software
 - [[cat_48c9bc01|The All-Inclusive Codex, Claude Code & Python Automation Bundle]] — Humble Bundle Software
 - [[cat_4a9ff81c|The Complete Claude and Anthropic Certification Bundle]] — Humble Bundle Software
@@ -36,26 +50,40 @@
 - [[cat_4f3585dd|Meshingun All-Stars]] — Humble Bundle Software
 - [[cat_4f424784|ThreeDee Character Creator & 3D Asset Bundle]] — Humble Bundle Software
 - [[cat_4f59368e|POLY Game Dev Assets Collection #3]] — Humble Bundle Software
+- [[cat_4f7fa267|Code Naturally With Python]] — Humble Bundle Software
 - [[cat_50269338|Best of Leartes - Gigantic Game Dev Assets & Tools Megabundle]] — Humble Bundle Software
+- [[cat_50f1cd56|Animate Like a Pro with Moho PRO]] — Humble Bundle Software
 - [[cat_5136be68|CRPG Pack: Isometric Immersion]] — Humble Bundle Games
 - [[cat_5171cb06|Indies in Space]] — Humble Bundle Games
+- [[cat_51a7ca55|Crawling Through the Dungeons]] — Humble Bundle Games
+- [[cat_51f81e32|SkullForge Studios Arsenal Mega Bundle]] — Humble Bundle Software
 - [[cat_52d581c6|Code Naturally With Python]] — Humble Bundle Software
 - [[cat_543a85c8|Make & Play Games in Godot]] — Humble Bundle Games
 - [[cat_55376143|Portfolio in a Weekend]] — Humble Bundle Software
 - [[cat_58840ee1|Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects]] — Humble Bundle Software
+- [[cat_59602096|Narrative Masterpieces]] — Humble Bundle Games
 - [[cat_596b20df|Run It Back - Roguelikes Bundle]] — Humble Bundle Games
 - [[cat_59f206d7|CRPG Pack: Isometric Immersion]] — Humble Bundle Games
+- [[cat_5a281db9|Industrial Lands]] — Humble Bundle Software
 - [[cat_5ba4ed61|Front End Web Development Bootcamp Bundle]] — Humble Bundle Software
 - [[cat_61b949a9|Garbage Dwellers]] — Humble Bundle Games
+- [[cat_65178633|Assemble Entertainment Cozy Games Collection]] — Humble Bundle Games
 - [[cat_65b68cdc|Mega Man: Recharged Collection]] — Humble Bundle Games
 - [[cat_65c11539|Garbage Dwellers]] — Humble Bundle Games
 - [[cat_6714ce96|Unreal Engine Real-Time Simulation & FX Suite]] — Humble Bundle Software
+- [[cat_6ad1ede5|Front End Web Development Bootcamp Bundle]] — Humble Bundle Software
 - [[cat_6f72334b|Audit by ACI Learning]] — Humble Bundle Software
 - [[cat_70cded00|Create Magic with Magix]] — Humble Bundle Software
+- [[cat_71b0e752|Audit by ACI Learning]] — Humble Bundle Software
 - [[cat_71ebf24b|Front End Web Development Bootcamp Bundle]] — Humble Bundle Software
 - [[cat_760a3fc0|Decked Out Deckbuilders]] — Humble Bundle Games
+- [[cat_76dea48a|The Complete Claude and Anthropic Certification Bundle]] — Humble Bundle Software
+- [[cat_770dc3e8|JROTools Pro Photobash Reference Megapack]] — Humble Bundle Software
 - [[cat_77aa338b|ThreeDee Character Creator & 3D Asset Bundle]] — Humble Bundle Software
+- [[cat_780b3442|Freedom to Create with COREL Graphics Suite 2025]] — Humble Bundle Software
 - [[cat_7debf362|Big Blast'n Sounds for Game Devs]] — Humble Bundle Software
+- [[cat_7e6a3444|The Audio Forge - Game Dev Music & Voices Bundle]] — Humble Bundle Software
+- [[cat_7ef96e4c|- Sniper Elite: Classics Collection]] — Humble Bundle Games
 - [[cat_844ae3be|SkullForge Studios Arsenal Mega Bundle]] — Humble Bundle Software
 - [[cat_8abea072|BUILD YOUR DREAM HOME - The Ultimate 3D CAD Bundle]] — Humble Bundle Software
 - [[cat_8e4d7ab3|Narrative Masterpieces]] — Humble Bundle Games
@@ -66,11 +94,13 @@
 - [[cat_99cc6961|Beyond the Metroidverse Bundle]] — Humble Bundle Games
 - [[cat_9a8c5229|Cyberpunk Audio Cache]] — Humble Bundle Software
 - [[cat_9cf5ce06|Meshingun All-Stars]] — Humble Bundle Software
+- [[cat_9d7d1ece|Garbage Dwellers]] — Humble Bundle Games
 - [[cat_9d88f35b|Animate Like a Pro with Moho PRO]] — Humble Bundle Software
 - [[cat_9ed08bcf|Beyond the Metroidverse Bundle]] — Humble Bundle Games
 - [[cat_a08a2735|Dread and Dark Fantasies RPG Collection]] — Humble Bundle Games
 - [[cat_a19f1fb6|The Audio Forge - Game Dev Music & Voices Bundle]] — Humble Bundle Software
 - [[cat_a41a5f13|Back to School Linux, Red Hat, Kubernetes and Cybersecurity Certification Bundle with Practice Exams]] — Humble Bundle Software
+- [[cat_a511fa6d|Beyond the Metroidverse Bundle]] — Humble Bundle Games
 - [[cat_a5571331|Backrooms and Liminal World Builder Bundle]] — Humble Bundle Software
 - [[cat_a96da3ac|Dread and Dark Fantasies RPG Collection]] — Humble Bundle Games
 - [[cat_a9cedcbf|Create Magic with Magix]] — Humble Bundle Software
@@ -82,31 +112,40 @@
 - [[cat_b6735b44|Backrooms and Liminal World Builder Bundle]] — Humble Bundle Software
 - [[cat_b77f820f|Narrative Masterpieces]] — Humble Bundle Games
 - [[cat_bace0daf|Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects]] — Humble Bundle Software
+- [[cat_bc8bac96|Make & Play Games in Godot]] — Humble Bundle Games
 - [[cat_bd09e88d|Industrial Lands]] — Humble Bundle Software
 - [[cat_be219209|Agile in Action: Scrum, Jira & AI Project Management]] — Humble Bundle Software
 - [[cat_c3749728|Ultimate Fantasy Miniatures Bundle]] — Humble Bundle Software
 - [[cat_c4681e01|Audit by ACI Learning]] — Humble Bundle Software
+- [[cat_c7269385|Ultimate Fantasy Miniatures Bundle]] — Humble Bundle Software
 - [[cat_c8872801|The Audio Forge - Game Dev Music & Voices Bundle]] — Humble Bundle Software
 - [[cat_c972d854|Decked Out Deckbuilders]] — Humble Bundle Games
+- [[cat_cb921322|Dread and Dark Fantasies RPG Collection]] — Humble Bundle Games
 - [[cat_cbc28509|Crawling Through the Dungeons]] — Humble Bundle Games
 - [[cat_cc158b79|JROTools Pro Photobash Reference Megapack]] — Humble Bundle Software
 - [[cat_ccb47e08|The All-Inclusive Codex, Claude Code & Python Automation Bundle]] — Humble Bundle Software
 - [[cat_cd77f952|- Sniper Elite: Classics Collection]] — Humble Bundle Games
 - [[cat_cf4a0151|Narrative Masterpieces]] — Humble Bundle Games
+- [[cat_cfd61ee4|Create Magic with Magix]] — Humble Bundle Software
 - [[cat_d0cfb2a4|CRPG Pack: Isometric Immersion]] — Humble Bundle Games
+- [[cat_d2639a6d|Portfolio in a Weekend]] — Humble Bundle Software
 - [[cat_d3985a3b|Crawling Through the Dungeons]] — Humble Bundle Games
 - [[cat_d4421f0d|Create Magic with Magix]] — Humble Bundle Software
 - [[cat_d5840989|Code Naturally With Python]] — Humble Bundle Software
 - [[cat_d7ba9a3e|Make & Play Games in Godot]] — Humble Bundle Games
 - [[cat_da2809d1|ThreeDee Character Creator & 3D Asset Bundle]] — Humble Bundle Software
+- [[cat_dba40006|Unreal Engine Real-Time Simulation & FX Suite]] — Humble Bundle Software
 - [[cat_dd62a7a6|SkullForge Studios Arsenal Mega Bundle]] — Humble Bundle Software
+- [[cat_e0302b05|CRPG Pack: Isometric Immersion]] — Humble Bundle Games
 - [[cat_e10d3461|Decked Out Deckbuilders]] — Humble Bundle Games
 - [[cat_e1beb175|- Sniper Elite: Classics Collection]] — Humble Bundle Games
 - [[cat_e42cd47f|IGN 30th Anniversary Bundle]] — Humble Bundle Games
 - [[cat_e62cb754|Code Naturally With Python]] — Humble Bundle Software
+- [[cat_e6382b8b|The All-Inclusive Codex, Claude Code & Python Automation Bundle]] — Humble Bundle Software
 - [[cat_e74d871c|Dread and Dark Fantasies RPG Collection]] — Humble Bundle Games
 - [[cat_e7c7ebb6|Assemble Entertainment Cozy Games Collection]] — Humble Bundle Games
 - [[cat_e8b38ac0|Indies in Space]] — Humble Bundle Games
+- [[cat_e9352aa6|Open World Essentials II]] — Humble Bundle Software
 - [[cat_e9c919a4|Meshingun All-Stars]] — Humble Bundle Software
 - [[cat_ea5a9678|The Complete Claude and Anthropic Certification Bundle]] — Humble Bundle Software
 - [[cat_eaed6fca|Portfolio in a Weekend]] — Humble Bundle Software
@@ -118,9 +157,12 @@
 - [[cat_f05b2233|The Complete Claude and Anthropic Certification Bundle]] — Humble Bundle Software
 - [[cat_f276b042|Voice Vault: The ultimate collection of human-made voice lines]] — Humble Bundle Software
 - [[cat_f3d75d1d|Open World Essentials II]] — Humble Bundle Software
+- [[cat_f417a993|Meshingun All-Stars]] — Humble Bundle Software
 - [[cat_f500d254|Assemble Entertainment Cozy Games Collection]] — Humble Bundle Games
+- [[cat_f628f702|Decked Out Deckbuilders]] — Humble Bundle Games
 - [[cat_f664de15|Cyberpunk Audio Cache]] — Humble Bundle Software
 - [[cat_f7f78a6d|The All-Inclusive Codex, Claude Code & Python Automation Bundle]] — Humble Bundle Software
 - [[cat_fb5eece3|Freedom to Create with COREL Graphics Suite 2025]] — Humble Bundle Software
+- [[cat_fb9dfc1f|ThreeDee Character Creator & 3D Asset Bundle]] — Humble Bundle Software
 - [[cat_fc48124a|IGN 30th Anniversary Bundle]] — Humble Bundle Games
 - [[cat_feacfacb|Best of Leartes - Gigantic Game Dev Assets & Tools Megabundle]] — Humble Bundle Software

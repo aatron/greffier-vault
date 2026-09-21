@@ -1,0 +1,18 @@
+---
+type: cat
+id: cat_462e76aa
+title: Backrooms and Liminal World Builder Bundle
+resource: https://www.humblebundle.com/software/backrooms-and-liminal-world-builder-bundle-software
+t_confidence: 0.6499999999999999
+t_relevance: 0.7
+t_signal: 0.6
+t_reading_minutes: 1
+horizon: read-today
+lane: shopping
+timestamp: 2026-09-21T05:00:37.0760638+00:00
+t_source: source_humble_software
+...
+---
+## Summary
+
+Summary: Backrooms and Liminal World Builder Bundle

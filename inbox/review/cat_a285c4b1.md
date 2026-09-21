@@ -1,0 +1,20 @@
+---
+type: cat
+id: cat_a285c4b1
+title: Jensen Huang says AI leaders calling for regulation don't want new legislation, but to be "relieved of the laws we do have" because of "ulterior reasons" (Truman Dickerson/Business Insider)
+resource: https://www.techmeme.com/260920/p12#a260920p12
+t_confidence: 0.6499999999999999
+t_relevance: 0.7
+t_signal: 0.6
+t_reading_minutes: 1
+horizon: read-today
+lane: tech
+timestamp: 2026-09-21T05:00:37.9226390+00:00
+t_source: source_techmeme
+t_suggested_tags:
+- topic/ai
+...
+---
+## Summary
+
+Summary: Jensen Huang says AI leaders calling for regulation don't want new legislation, but to be "relieved of the laws we do have" because of "ulterior reasons" (Truman Dickerson/Business Insider)
