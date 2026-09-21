@@ -63,3 +63,19 @@
 - discovery proposals: 0
 - rollup: complete
 
+
+## Triage 2026-09-21 12:00:36 UTC
+- processed: 42
+- auto-filed: 1
+- today budget selected: 1
+- tokens (est): 23490
+
+
+## Run 2026-09-21 12:00:40 UTC
+- ingest staged: 33
+- want-sweep staged: 9
+- triage processed: 42
+- shopping archived: 0 (checked 6)
+- discovery proposals: 0
+- rollup: complete
+
