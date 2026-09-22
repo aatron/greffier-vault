@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: news
 timestamp: 2026-09-21T22:00:35.6836377+00:00
 published_at: 2026-09-21T20:56:51.0000000+00:00
@@ -16,6 +16,8 @@ beat: local
 t_source: source_kgw
 t_suggested_tags:
 - topic/typescript
+t_feedback: up
+archived_at: 2026-09-22T00:21:57.7099920+00:00
 ...
 ---
 ## Summary
