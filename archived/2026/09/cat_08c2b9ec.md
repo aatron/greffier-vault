@@ -7,13 +7,15 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: news
 timestamp: 2026-09-21T22:00:35.4729396+00:00
 published_at: 2026-09-21T21:23:51.0000000+00:00
 excerpt: Thomas Kelly was convicted of sexually assaulting the toddler when he was babysitting in July 2023. She reported the abuse the next day.
 beat: local
 t_source: source_kgw
+t_feedback: up
+archived_at: 2026-09-22T00:20:26.8366002+00:00
 ...
 ---
 ## Summary
