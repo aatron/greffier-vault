@@ -15,6 +15,15 @@ excerpt: "Juliet Macur / New York Times : Amazon, Walmart and other companies ar
 t_source: source_techmeme
 t_suggested_tags:
 - topic/typescript
+d_effective_priority: 2.5
+d_open_tasks_own: 0
+d_open_tasks_tree: 0
+d_percent_complete: 0
+d_depth: 0
+d_child_count: 0
+d_blocked: false
+d_last_touched: 2026-09-22
+d_staleness_days: 0
 ...
 ---
 ## Summary
