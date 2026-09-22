@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-22T12:00:40.3599838+00:00
 published_at: 2026-09-22T02:20:00.0000000-04:00
@@ -15,6 +15,8 @@ excerpt: "TechCrunch : Dutch nanoimprint lithography startup Morphotonics raised
 t_source: source_techmeme
 t_suggested_tags:
 - topic/typescript
+t_feedback: down
+archived_at: 2026-09-22T14:35:24.3362708+00:00
 ...
 ---
 ## Summary
