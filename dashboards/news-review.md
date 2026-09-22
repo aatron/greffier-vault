@@ -5,6 +5,7 @@
 - [[cat_33935024|Police called to clash between protesters outside the Sports Bra]] — KGW Oregon
 - [[cat_377b78dc|First week of I-5 Rose Quarter closure brings longer commutes, traffic adjustments]] — KGW Oregon
 - [[cat_3b618367|The data center backlash is reshaping American politics — one community at a time]] — NPR News · Scott Neuman
+- [[cat_3e782e05|Washington County Chair Kathryn Harrington to resign following middle finger incident]] — KGW Oregon
 - [[cat_4331a820|Motorcyclist dead after crashing into van, hitting pole in Southeast Portland]] — KGW Oregon
 - [[cat_458c0b5b|Missing hiker's body found in Olympic National Park]] — KGW Oregon
 - [[cat_48e99573|Record diesel prices squeeze trucking industry as operators face rising costs]] — KGW Oregon
@@ -26,6 +27,7 @@
 - [[cat_7f494e4b|U.S. Marshals Service arrests 3 suspects in deadly Chelan Hills Fire]] — KGW Oregon
 - [[cat_81254b66|Oregon settles with Paramount in multi-state lawsuit over Warner Bros. Discovery merger]] — KGW Oregon
 - [[cat_94376c53|U.S. childcare costs are astronomical. More families are turning to grandparents]] — NPR News · Joe Hernandez
+- [[cat_aae5f0c6|Coast Guard responds to plane crash off the coast of Newport]] — KGW Oregon
 - [[cat_ac223c5b|Jesse Calhoun scheduled to be arraigned Monday on manslaughter charge in death of Elizabeth 'Libby' Gibson]] — KGW Oregon
 - [[cat_b1a7d4e2|Pedestrian struck and killed by car in Vancouver]] — KGW Oregon
 - [[cat_bb4f8beb|First new Amtrak Cascades trains enter service Sept. 30]] — KGW Oregon

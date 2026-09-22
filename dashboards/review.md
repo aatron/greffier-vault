@@ -8,8 +8,10 @@
 - [[cat_25363bc9|China has made AI a national mission, but local workers' fear of displacement mirrors worries abroad, and potential for social unrest may force CCP to slow down (Michael Schuman/The Atlantic)]] — Techmeme
 - [[cat_2a0c92bf|mingley/partitionline - Pure-Rust Apache Kafka client and protocol implementation]]
 - [[cat_2bfa8131|The Advisory Group on Mathematics and Artificial Intelligence]] — Hacker News Frontpage · digital55
+- [[cat_2c2c1c88|Spymarks, Not Watermarks]] — Hacker News Frontpage · possibilistic
 - [[cat_2ffddde7|An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more (John Thornhill/Financial Times)]] — Techmeme
 - [[cat_30223f66|OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances (OpenAI)]] — Techmeme
+- [[cat_3067b6d0|Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay (Kelly Cloonan/Wall Street Journal)]] — Techmeme
 - [[cat_329cbf7c|US Treasury Secretary Scott Bessent says OpenAI's Hugging Face hacking incident in July "is the responsibility of the OpenAI management, not a bunch of agents" (Yash Roy/Bloomberg)]] — Techmeme
 - [[cat_33e5c9a9|Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents]]
 - [[cat_34d50657|Announcing .NET 11 Release Candidate 1]] — .NET Blog · .NET Team
@@ -75,6 +77,7 @@
 - [[cat_5d3b65b4|Dicklesworthstone/fastmcp_rust - Rust framework for building Model Context Protocol servers with cancel-correct async, zero-copy serialization, and first-class tool/resource/prompt abstractions]]
 - [[cat_5d76352c|An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more (John Thornhill/Financial Times)]] — Techmeme
 - [[cat_5dca1dc6|ChatGPT now knows what you do on other websites via ad collector]] — Hacker News Frontpage · lmbbuchodi
+- [[cat_5e563324|A researcher says a flaw in Meta's Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account (Dan Goodin/Ars Technica)]] — Techmeme
 - [[cat_5e7e2651|How we ended up rewriting NuGet Restore in .NET 9]] — NuGet (.NET Blog) · The NuGet Team
 - [[cat_5f334177|Googlebook OS hands-on: core services like Gmail run as Trusted Web Activities via the Play Store, Gemini Nano powers some apps, and it feels like a Pixel phone (Abner Li/9to5Google)]] — Techmeme
 - [[cat_5fcc49cb|The Morning Brew #3992]] — The Morning Brew · Chris Alcock
@@ -122,10 +125,12 @@
 - [[cat_7905a703|Why back propagation goes backward]] — Hacker News Frontpage · andsoitis
 - [[cat_7ac7e910|Singapore’s National Library Board offers micropayments to build reading habits]] — Hacker News Frontpage · geox
 - [[cat_7d9d6c27|A Necessary History of the Oddest Letter: W]] — Hacker News Frontpage · NaOH
+- [[cat_7de46b2e|Data Protection Commission fines Google €403M over processing of location data]] — Hacker News Frontpage · DeepLogin
 - [[cat_7e2c4cc9|The Morning Brew #3994]] — The Morning Brew · Chris Alcock
 - [[cat_7e4a0ac2|DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air]] — Hacker News Frontpage · the_arun
 - [[cat_7f85a22b|Hong Kong-based Qupital, which offers cross-border ecommerce financing to SMEs, raised a $300M Series C led by M Capital as it weighs a possible IPO (FinTech Global)]] — Techmeme
 - [[cat_7f91c80b|US policy analysts, lawmakers, and others say several state-level AI chatbot safety bills included language that could provide loopholes for tech companies (Katie McQue/NPR)]] — Techmeme
+- [[cat_801330d5|British Columbia sues OpenAI for alleged safety violations and negligence for failing to flag the Tumbler Ridge shooting suspect's ChatGPT activity to police (Georgia Wells/Wall Street Journal)]] — Techmeme
 - [[cat_80370ecf|Adding a Clone method to a C# record]] — Meziantou's blog · Gérald Barré
 - [[cat_82a55407|Alibaba's Damo Academy open sources RADAR, a medical vision-language model it says can read CT scans and identify ~150 abdominal conditions, including cancers (Ann Cao/South China Morning Post)]] — Techmeme
 - [[cat_82a58f9f|I turned Jev into a (lousy) chatbot]] — Hacker News Frontpage · kp1197
@@ -142,9 +147,11 @@
 - [[cat_8df86e15|Disney+: New user agreement allows ads before movies in all subscriptions]] — Hacker News Frontpage · DeepLogin
 - [[cat_8e4b7b31|SHOW HN: I built the fastest PHP webserver in the world]]
 - [[cat_8fabb7e8|Singapore’s National Library Board offers micropayments to build reading habits]] — Hacker News Frontpage · geox
+- [[cat_8ffd9b1f|billlzzz18/flowz - Rust MCP server for workflow orchestration with pmcp — subagent time budgets, event interception, rule-based supervisor, cron, and CLI/MCP interface]]
 - [[cat_908b9449|iPhone 18 Pro teardown: its SoC now sits outside the logic board for better cooling, the variable aperture is thoughtfully designed but hard to repair, and more (Elizabeth Chamberlain/iFixit News)]] — Techmeme
 - [[cat_9260710f|Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit (Demetri Sevastopulo/Financial Times)]] — Techmeme
 - [[cat_955a0648|apache/asyncband - This crate provides concurrency control and async coordination primitives that are runtime agnostic.]]
+- [[cat_96abd829|Mullassery/MudFish - Rust-native web crawling and intelligence engine — deterministic crawling first, browser rendering only when required, AI reasoning only when useful. Python bindings via PyO3.]]
 - [[cat_970f166b|Querying Roslyn syntax trees with XPath]] — Meziantou's blog · Gérald Barré
 - [[cat_97c632a2|Turn off and restrict access to Apple Intelligence features on Mac]] — Hacker News Frontpage · alwillis
 - [[cat_98977b10|Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich]] — Hacker News Frontpage · xabd
@@ -170,6 +177,7 @@
 - [[cat_a6e6ed94|Indeed: data center roles in the US offer a ~42% pay premium for hourly maintenance and installation workers compared with similar jobs at other businesses (Owen Tucker-Smith/Wall Street Journal)]] — Techmeme
 - [[cat_a73d2500|Dew Drop - August 20, 2026 (#4737)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
 - [[cat_a89be12b|The new Dependabot NuGet updater: 65% faster with native .NET]] — NuGet (.NET Blog) · Jamie Magee, Brett Forsgren
+- [[cat_a8e84a88|I don't want to read what you didn't write]] — Hacker News Frontpage · mooreds
 - [[cat_a9338fbb|Q&A with Mark Gurman on the iPhone Duo, breaking Apple news, Apple's AI-native devices, Tim Cook staying as executive chair, John Ternus, Johny Srouji, and more (Nilay Patel/The Verge)]] — Techmeme
 - [[cat_ab474dfc|Dew Drop - September 2, 2026 (#4745)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
 - [[cat_abe0f057|IFR: ~7,000 autonomous humanoids were sold globally in 2025 for industrial and professional use, with many bought for research instead of doing productive work (Toby Sterling/Reuters)]] — Techmeme
@@ -225,6 +233,7 @@
 - [[cat_d72b7618|.NET Conf 2026 – Save the Date]] — .NET Blog · Jon Galloway
 - [[cat_d76e2b6a|China has made AI a national mission, but local workers' fear of displacement mirrors worries abroad, and potential for social unrest may force CCP to slow down (Michael Schuman/The Atlantic)]] — Techmeme
 - [[cat_d7c7d3a5|Sensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI's 773K in the same post-launch period; META jumps 12%+ (Bloomberg)]] — Techmeme
+- [[cat_d7fffdb9|Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs "on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks" (Xiaomi)]] — Techmeme
 - [[cat_d8de87b9|Adding a Clone method to a C# record]] — Meziantou's blog · Gérald Barré
 - [[cat_d8fa3e07|How we ended up rewriting NuGet Restore in .NET 9]] — NuGet (.NET Blog) · The NuGet Team
 - [[cat_d9817ea7|AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures (Owen Walker/Financial Times)]] — Techmeme

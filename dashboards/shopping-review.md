@@ -1,3 +1,5 @@
+- [[cat_769301f4|Mega Unreal Engine Bundle]] — Humble Bundle Software
+- [[cat_8002ebbc|The Almighty God Games Bundle]] — Humble Bundle Games
 - [[cat_bd09e88d|Industrial Lands]] — Humble Bundle Software
 - [[cat_cfd61ee4|Create Magic with Magix]] — Humble Bundle Software
 - [[cat_d5840989|Code Naturally With Python]] — Humble Bundle Software

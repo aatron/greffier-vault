@@ -1,3 +1,6 @@
+- [[cat_0015ea60|Google's Open Agentic Orchestrator]] — https://agentexecutor.io
+- [[cat_014e5eb1|TailTalk: A modern async user space AppleTalk stack with Rust and Tokio]] — https://github.com/FeralFirmware/TailTalk/
+- [[cat_02aea9b9|jiangzhe/doradb - DoraDB - Async Rust storage engine]] — https://github.com/jiangzhe/doradb
 - [[cat_0068d87d|I am often wrong]] — https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html
 - [[cat_2b6bc760|Announcing .NET 10]] — https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/
 - [[cat_03dbd3df|Dew Drop - September 16, 2026 (#4752)]] — https://alvinashcraft.com/2026/09/16/dew-drop-september-16-2026-4752/
@@ -5,6 +8,3 @@
 - [[cat_0784c620|Dew Drop - August 14, 2026 (#4733)]] — https://alvinashcraft.com/2026/08/14/dew-drop-august-14-2026-4733/
 - [[cat_088b3f7e|Use C# unions and closed hierarchies in ASP.NET Core]] — https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/
 - [[cat_0a9a336e|Dew Drop - September 4, 2026 (#4747)]] — https://alvinashcraft.com/2026/09/04/dew-drop-september-4-2026-4747/
-- [[cat_0d590eaf|Run temporary containers in .NET tests with Meziantou.Framework.TemporaryContainers]] — https://www.meziantou.net/run-temporary-containers-in-dotnet-tests-with-meziantou-framework-temporaryconta.htm?utm_medium=social&utm_source=syndication
-- [[cat_0f4f3b63|Dew Drop - September 1, 2026 (#4744)]] — https://alvinashcraft.com/2026/09/01/dew-drop-september-1-2026-4744/
-- [[cat_115dc671|Dew Drop - August 19, 2026 (#4736)]] — https://alvinashcraft.com/2026/08/19/dew-drop-august-19-2026-4736/
