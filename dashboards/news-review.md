@@ -1,9 +1,14 @@
 - [[cat_0c420c89|Controversial Portland homeless overnight shelter shutters amid ongoing lawsuit]] — KGW Oregon
+- [[cat_1917a82a|Girl accuses Braden Peters, social media influencer known as 'Clavicular,' of rape]] — NPR News · Chloe Veltman
+- [[cat_214234a6|Questions remain after grand jury declines indictment in Nolan Wells' death]] — NPR News · Elise Gregg
 - [[cat_26f6e71b|Trump heads to U.N. looking for wins after a rough week]] — NPR News · Franco Ordoñez
 - [[cat_2ea5d5f6|Tigard police sergeant accused of exposing himself at the gym]] — KGW Oregon
+- [[cat_37176a19|Oregon gas prices are technically lower this week, though you could be forgiven for not noticing]] — KGW Oregon
 - [[cat_3b239b71|Protests outside The Sports Bra turn violent after dispute over transgender athletes in sports]] — KGW Oregon
+- [[cat_51871e06|Fatal crash involving vehicle and motorcycle near Forest Park]] — KGW Oregon
 - [[cat_562fec1e|This 'fire amoeba' pushes the limit of what's possible for complex life]] — NPR News · Ari Daniel
 - [[cat_66afc1cd|New DNA analysis adds evidence Jefferson fathered children with Sally Hemings]] — NPR News · Michel Martin
+- [[cat_6afae9ab|North Portland's century-old Columbia Pool set for demolition this year]] — KGW Oregon
 - [[cat_6bed4f07|Strange mail, stolen address: How fraudsters are exploiting Oregon homeowners]] — KGW Oregon
 - [[cat_745866c7|The best and biggest games of September]] — NPR News · James Perkins Mastromarino
 - [[cat_74e48d29|Waymo is still mapping Portland as driverless cars await next steps]] — KGW Oregon
@@ -22,9 +27,14 @@
 - [[cat_c3453bd4|Fields Park in Northwest Portland reopens more than 6 weeks after Centennial Mills fire]] — KGW Oregon
 - [[cat_c6d67f48|Police identify man who died after shooting in Northeast Portland Home Depot parking lot]] — KGW Oregon
 - [[cat_ccfb7280|Nike staff accused of trying to cover up teen athlete's sexual assault]] — KGW Oregon
+- [[cat_d3b058cf|White House launches 'Trump TV' after ban on major news outlets]] — NPR News · Scott Neuman
 - [[cat_d6c61d6e|CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit]] — NPR News · Brittney Melton
 - [[cat_db462b0e|‘This is a solvable problem’: Extreme Ross Island algae bloom could help find a fix]] — KGW Oregon
+- [[cat_dc7d8382|A journalist once barred from the White House says this media ban is different]] — NPR News · Steve Inskeep
+- [[cat_dda5eab1|Canby police justified in using deadly force against man breaking into apartment, grand jury finds]] — KGW Oregon
 - [[cat_dee49eb2|Accused serial killer Jesse Calhoun to appear in court Monday in Ashley Real case]] — KGW Oregon
+- [[cat_e06f2b18|Northeast Portland neighborhood pizzeria announces closure]] — KGW Oregon
+- [[cat_e652f8f1|Trump's D.C. arch is now a military complex. Here's how that complicates things]] — NPR News · Rachel Treisman
 - [[cat_ea98c0b0|Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR]] — NPR News · Aya Batrawy
 - [[cat_eaaec188|Amazon plans drone delivery as it expands its Portland presence]] — KGW Oregon
 - [[cat_ead5a551|Explore Round Lake, Lower Falls and the trails of Lacamas Park in Camas]] — KGW Oregon

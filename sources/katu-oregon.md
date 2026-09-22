@@ -7,8 +7,8 @@ url: https://katu.com/feed
 lane: news
 beat: state
 health: unhealthy
-fetch_failures: 8
-last_fetch_error: HTTP 404
+fetch_failures: 9
+last_fetch_error: HTTP 500
 ...
 ---
 

@@ -1,4 +1,7 @@
+- [[cat_42f49324|Best of Synty Game Dev Assets Bundle 6]] — Humble Bundle Software
 - [[cat_769301f4|Mega Unreal Engine Bundle]] — Humble Bundle Software
+- [[cat_a3c76d5e|Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures]] — Humble Bundle Software
+- [[cat_af1835e1|Learn to Make Games in GODOT 2026]] — Humble Bundle Software
 - [[cat_bd09e88d|Industrial Lands]] — Humble Bundle Software
 - [[cat_cfd61ee4|Create Magic with Magix]] — Humble Bundle Software
 - [[cat_d5840989|Code Naturally With Python]] — Humble Bundle Software
