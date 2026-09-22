@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: news
 timestamp: 2026-09-21T17:01:06.6746168+00:00
 published_at: 2026-09-21T12:40:28.0000000-04:00
@@ -18,6 +18,8 @@ author: David Folkenflik
 t_suggested_tags:
 - topic/shopping
 - topic/typescript
+t_feedback: up
+archived_at: 2026-09-22T00:20:38.4598042+00:00
 ...
 ---
 ## Summary
