@@ -1,13 +1,63 @@
 - [[cat_00bfd0a7|Source: Xbox plans to lay off hundreds of employees this week in its second major staff cut in 2026, as it also plans to consolidate several of its game studios (Aaron Holmes/The Information)]] — Techmeme
+- [[cat_0706b3d0|Dew Drop - September 22, 2026 (#4754)]] — Morning Dew (Alvin Ashcraft) · Alvin Ashcraft
+- [[cat_0826708a|How to Choose Your Grad School]] — timdettmers.com · Tim Dettmers
 - [[cat_097409e6|Alibaba's T-Head unveils the Zhenwu V900 AI accelerator, which it says triples its predecessor's performance and can scale to clusters of up to 500,000 units (Bloomberg)]] — Techmeme
+- [[cat_138d5b9c|Christopher Golda and Grey Baker Join YC as General Partners]] — ycombinator.com · Garry Tan
 - [[cat_1596ae4b|Apple v. OpenAI: Apple asks the court to let its own experts review forensic images used in the case, and seeks documents tied to parts of OpenAI's hardware R&D (Marcus Mendes/9to5Mac)]] — Techmeme
+- [[cat_1ae6f458|Use Agents or Be Left Behind? A Personal Guide to Automating Your Own Work]] — timdettmers.com · Tim Dettmers
+- [[cat_1c55c756|Announcing the YC AI Stack]] — ycombinator.com · Ankit Gupta
+- [[cat_208e1678|Some universities have barred using AI detectors due to student-instructor distrust over false positives; some educators have just cancelled writing assignments (Will Oremus/The Atlantic)]] — Techmeme
+- [[cat_22cee3dd|AMD's random number generator can't generate a 0?]] — Hacker News Frontpage · BruceEel
 - [[cat_23ca4f1a|SiegfriedFletcher5869/tenant-signup-mail - Async Rust tenant signup that sends a verification email through Infrai]]
+- [[cat_281eff19|Ankit Gupta Joins YC as General Partner, Bringing Deep ML Expertise]] — ycombinator.com · Garry Tan
 - [[cat_34d50657|Announcing .NET 11 Release Candidate 1]] — .NET Blog · .NET Team
+- [[cat_3666e8ea|Diana Hu Is YC's Newest Managing Partner]] — ycombinator.com · Garry Tan
+- [[cat_44930436|Meet YC's Newest Visiting Partners]] — ycombinator.com · Harj Taggar
+- [[cat_54da4673|A Full Hardware Guide to Deep Learning]] — timdettmers.com · Tim Dettmers
+- [[cat_58eada5b|luceat-lux-vestra/oxide-batch - Early-alpha reliable, restartable batch processing for Rust, inspired by Spring Batch]]
+- [[cat_5912f8ef|Type Punning in C and C++]] — Hacker News Frontpage · ingve
+- [[cat_5ab3abb6|My Journey Towards Coding Agents: Building SERA]] — timdettmers.com · Tim Dettmers
 - [[cat_60b2dab8|Data Center Watch: 45 US data center projects valued at $68B were blocked or delayed by local opposition between April and June, or 50%+ of large developments (Newley Purnell/Bloomberg)]] — Techmeme
+- [[cat_617b08a4|French pharma SaaS startup Biolevate raised a €30M Series A co-led by RAISE France and Orange Ventures, taking its total funding to €36M (Brock E.W. Turner/Axios)]] — Techmeme
 - [[cat_658e4f0c|Show HN: Nightshift – Rust CLI to Orchestrate GitHub Issue Resolution with Dags]]
+- [[cat_699129a4|MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis]] — Hacker News Frontpage · theanonymousone
+- [[cat_6a354b34|US startup Firebird is building a 300MW data center in Armenia, set to host 70K+ Nvidia chips by 2027; sources: Trump pledged Nvidia export approvals to Armenia (Mackenzie Hawkins/Bloomberg)]] — Techmeme
+- [[cat_764c2494|LLM.int8() and Emergent Features]] — timdettmers.com · Tim Dettmers
+- [[cat_77a45714|Dalton Caldwell’s Move to Partner Emeritus]] — ycombinator.com · Garry Tan
 - [[cat_79b7b1b7|Tencent launches Hy Image 3.5 Preview, saying during internal testing the image model achieved results on par with ByteDance's Seedream 5.0 Pro (Bloomberg)]] — Techmeme
+- [[cat_7a69b7bb|9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game"]] — Hacker News Frontpage · KellyCriterion
+- [[cat_81160456|On Creativity in Academia]] — timdettmers.com · Tim Dettmers
 - [[cat_8f678655|Socrates vs. the Written Word (2011)]] — Hacker News Frontpage · spectraldrift
+- [[cat_9b588d3b|Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning]] — timdettmers.com · Tim Dettmers
+- [[cat_9efc3e2f|as2227741-beep/fastmcp - Build Model Context Protocol servers in Python with a simple, high-performance framework.]]
+- [[cat_a38ba529|Dutch nanoimprint lithography startup Morphotonics raised €40M from 3M Ventures, EIC Fund, and others, and plans to expand into data center optical components (TechCrunch)]] — Techmeme
+- [[cat_a4c2c104|Amazon, Walmart and other companies are using drones for fast deliveries in Richardson, Texas, but residents complain about noise and clumsy package drops (Juliet Macur/New York Times)]] — Techmeme
+- [[cat_a4eed242|GeiserX/tailscale-rs - A best-effort, pure-Rust port of Tailscale's Go tsnet — embed a Tailscale node directly in your Rust app. Fork of tailscale/tailscale-rs.]]
+- [[cat_aa87313f|JetBrains Air: A System of Products for Agentic Software Development]] — Hacker News Frontpage · FinnLobsien
+- [[cat_ab8f4682|Can gzip be a language model?]] — Hacker News Frontpage · networked
+- [[cat_ac3e8d2c|Chinese optical transceiver maker Ligent jumps 19% in its Hong Kong debut, giving it a ~$4.6B market cap, after raising ~$727M, the latest Hong Kong AI IPO (Sangmi Cha/Bloomberg)]] — Techmeme
+- [[cat_afa3e798|Welcoming Jon Xu and Andrew Miklas as YC’s Newest General Partners]] — ycombinator.com · Garry Tan
+- [[cat_b69ca305|Why AGI Will Not Happen]] — timdettmers.com · Tim Dettmers
+- [[cat_b9861a2d|BillionToOne Goes Public — The Startup That Made Genetic Testing Universal]] — ycombinator.com · Jared Friedman
+- [[cat_bc05eb8f|Finnish neocloud startup Verda raised $189M led by Emergence at a $1B+ valuation and aims to raise up to $1.5B in equity and debt in 2026 and up to $10B in 2027 (Paula Doenecke/Bloomberg)]] — Techmeme
+- [[cat_cb16656b|Apple unveils Apple Music Hall, a 600-person live music venue built in its London headquarters at Battersea Power Station with two recording and mixing studios (David Phelan/Forbes)]] — Techmeme
+- [[cat_cbdd6242|Sources: DeepSeek and Moonshot are among the companies briefing the UN Security Council on AI risks and international security during the UN General Assembly (Laurie Chen/Reuters)]] — Techmeme
+- [[cat_cf906b43|Sources: the Cyberspace Administration of China is investigating DeepSeek and Moonshot over alleged data leaks to Anthropic via Claude and has questioned staff (The Information)]] — Techmeme
+- [[cat_d0570b0b|Meesho Goes Public]] — ycombinator.com · Tim Brady
+- [[cat_da63530f|Adding Canada Back to Our List of Accepted Countries of Incorporation]] — ycombinator.com · Garry Tan
+- [[cat_db12a3c0|Verda (Finland) raises $189M in Series B]] — Hacker News Frontpage · cmrdporcupine
+- [[cat_dea4a9bb|Congratulations to Groww]] — ycombinator.com · Jon Levy
+- [[cat_e05f852c|Sources: multiple staff at the UK's AISI have been signed off work with stress, as tight model release schedules and AI fears lead to low morale and burnout (Financial Times)]] — Techmeme
+- [[cat_e25e0655|The Austrian Academy of Science, Mistral, and Sail Reply plan to launch Apollo, an Ancient Greek LLM trained on ~600M historical Greek words, available for free (Joel Khalili/Wired)]] — Techmeme
+- [[cat_e6fdd47c|Belgium-based AI recruitment startup Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, taking its total funding to $24M (Chris Metinko/Axios)]] — Techmeme
+- [[cat_e77a8a15|Sources: Polymarket is lobbying regulators in London, Brussels, and across the EU to be governed by financial services laws rather than local gambling rules (Financial Times)]] — Techmeme
 - [[cat_e81e1df7|XaviorCross1672/course-recharge-watch - Async Rust course delivery balance checks with educator recharge notices]]
+- [[cat_e836ed22|YC x Coinbase RFS: Build Onchain]] — ycombinator.com · Harj Taggar
+- [[cat_ed953aba|Sparse Networks from Scratch: Faster Training without Losing Performance]] — timdettmers.com · Tim Dettmers
+- [[cat_f03ba4dd|I said no and Apple said yes]] — Hacker News Frontpage · thatslast
 - [[cat_f14fc40f|Looking forward to Git 2.56 – and 3.0]] — Hacker News Frontpage · chmaynard
+- [[cat_f15b9e27|2026 Demo Day Dates]] — ycombinator.com · Y Combinator
 - [[cat_f1c1b93b|Claude Status – Elevated errors for multiple models]] — Hacker News Frontpage · corvad
+- [[cat_f28b29a6|Harshita Arora Joins YC as General Partner]] — ycombinator.com · Garry Tan
+- [[cat_f78c0251|Congratulations to EquipmentShare on Going Public]] — ycombinator.com · Garry Tan
 - [[cat_f7ec5c0b|Alibaba CEO Eddie Wu says the company plans to train a 5T- to 10T-parameter AI model, as it lays out a sweeping push across AI models, chips, and data centers (Reuters)]] — Techmeme
