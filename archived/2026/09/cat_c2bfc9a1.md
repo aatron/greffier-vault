@@ -7,7 +7,7 @@ t_confidence: 0.95
 t_relevance: 1
 t_signal: 1
 t_reading_minutes: 3
-horizon: read-today
+horizon: archive
 lane: news
 timestamp: 2026-09-21T22:00:35.7533915+00:00
 published_at: 2026-09-21T13:46:09.0000000-04:00
@@ -29,6 +29,8 @@ d_child_count: 0
 d_blocked: false
 d_last_touched: 2026-09-21
 d_staleness_days: 1
+t_feedback: up
+archived_at: 2026-09-22T00:16:16.6292995+00:00
 ...
 ---
 ## Summary
