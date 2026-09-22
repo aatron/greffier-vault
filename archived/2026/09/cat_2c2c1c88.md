@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-22T00:12:23.8170825+00:00
 published_at: 2026-09-21T23:03:49.0000000+00:00
@@ -16,6 +16,8 @@ t_source: source_hn
 author: possibilistic
 t_suggested_tags:
 - topic/typescript
+t_feedback: up
+archived_at: 2026-09-22T00:32:29.7843957+00:00
 ...
 ---
 ## Summary
