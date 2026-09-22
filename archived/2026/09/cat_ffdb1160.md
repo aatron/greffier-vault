@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-21T12:00:36.1829273+00:00
 published_at: 2026-09-21T07:55:00.0000000-04:00
@@ -15,6 +15,8 @@ excerpt: "Robert Hart / The Verge : In its first thematic brief, the UN's Indepe
 t_source: source_techmeme
 t_suggested_tags:
 - topic/typescript
+t_feedback: up
+archived_at: 2026-09-22T01:17:18.9353149+00:00
 ...
 ---
 ## Summary
