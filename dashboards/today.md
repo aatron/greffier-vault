@@ -1,10 +1,10 @@
 - [[cat_0015ea60|Google's Open Agentic Orchestrator]] — https://agentexecutor.io
 - [[cat_014e5eb1|TailTalk: A modern async user space AppleTalk stack with Rust and Tokio]] — https://github.com/FeralFirmware/TailTalk/
 - [[cat_02aea9b9|jiangzhe/doradb - DoraDB - Async Rust storage engine]] — https://github.com/jiangzhe/doradb
-- [[cat_0068d87d|I am often wrong]] — https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html
-- [[cat_2b6bc760|Announcing .NET 10]] — https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/
-- [[cat_03dbd3df|Dew Drop - September 16, 2026 (#4752)]] — https://alvinashcraft.com/2026/09/16/dew-drop-september-16-2026-4752/
-- [[cat_07442268|Dew Drop - August 28, 2026 (#4742)]] — https://alvinashcraft.com/2026/08/28/dew-drop-august-28-2026-4742/
-- [[cat_0784c620|Dew Drop - August 14, 2026 (#4733)]] — https://alvinashcraft.com/2026/08/14/dew-drop-august-14-2026-4733/
-- [[cat_088b3f7e|Use C# unions and closed hierarchies in ASP.NET Core]] — https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/
-- [[cat_0a9a336e|Dew Drop - September 4, 2026 (#4747)]] — https://alvinashcraft.com/2026/09/04/dew-drop-september-4-2026-4747/
+- [[cat_2a0c92bf|mingley/partitionline - Pure-Rust Apache Kafka client and protocol implementation]] — https://github.com/mingley/partitionline
+- [[cat_5d34f717|killown/flux - A blazingly fast, multi-threaded Linux file manager built with Rust and GTK4/Libadwaita. Features a reactive architecture via Relm4, utilizing Rayon for parallel file processing and Tokio for async I/O.]] — https://github.com/killown/flux
+- [[cat_5d3b65b4|Dicklesworthstone/fastmcp_rust - Rust framework for building Model Context Protocol servers with cancel-correct async, zero-copy serialization, and first-class tool/resource/prompt abstractions]] — https://github.com/Dicklesworthstone/fastmcp_rust
+- [[cat_64e7521d|embassy-rs/embassy - Modern embedded framework, using Rust and async.]] — https://github.com/embassy-rs/embassy
+- [[cat_6754bea8|Dicklesworthstone/asupersync - Async runtime for Rust where correctness is structural: region-owned tasks, cancel-correct protocols, capability-gated effects, and deterministic replay testing]] — https://github.com/Dicklesworthstone/asupersync
+- [[cat_6c03408a|yukimemi/rvpm - Fast Neovim plugin manager with pre-compiled loader and merge optimization]] — https://github.com/yukimemi/rvpm
+- [[cat_6e469d32|bpcakes/batter - Native operational foundation for Rust/Tokio: owned lifecycle, deadlines, retries, Axum boundaries, PostgreSQL transaction scopes, Runledger, and Runlimit.]] — https://github.com/bpcakes/batter

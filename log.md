@@ -148,3 +148,31 @@
 - discovery proposals: 0
 - rollup: complete
 
+
+## Triage 2026-09-22 05:00:34 UTC
+- processed: 16
+- auto-filed: 0
+- today budget selected: 0
+- tokens (est): 9120
+
+
+## Discovery 2026-09-22T05:00:47.3838555+00:00
+- park domain: github.com citations=54 reason=no-feed
+- propose source: ycombinator.com kind=rss citations=18 because=citations url=https://www.ycombinator.com/blog/feed hit_rate=0.73 mode=auto-add
+- auto-add source: ycombinator.com path=sources/auto-ycombinator-com.md
+- park domain: me.uk citations=14 reason=no-feed
+- propose source: foremerge.com kind=rss citations=6 because=citations url=https://foremerge.com/blog/feed.xml hit_rate=0.25 mode=propose-only
+- park domain: agentexecutor.io citations=4 reason=no-feed
+- propose source: timdettmers.com kind=rss citations=4 because=citations url=https://timdettmers.com/feed/ hit_rate=1.00 mode=auto-add
+- auto-add source: timdettmers.com path=sources/auto-timdettmers-com.md
+- demote source: source_katu reason=unhealthy domain=katu.com
+- demote source: source_ripcity reason=unhealthy domain=ripcityproject.com
+
+## Run 2026-09-22 05:00:47 UTC
+- ingest staged: 13
+- want-sweep staged: 3
+- triage processed: 16
+- shopping archived: 0 (checked 5)
+- discovery proposals: 3
+- rollup: complete
+
