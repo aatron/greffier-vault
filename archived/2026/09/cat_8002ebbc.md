@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: shopping
 timestamp: 2026-09-22T00:12:25.6092700+00:00
 published_at: 2026-09-21T18:00:00.0000000+00:00
@@ -15,6 +15,8 @@ excerpt: When life starts feeling out of control, play a game where you control 
 t_source: source_humble_games
 t_suggested_tags:
 - topic/typescript
+t_feedback: up
+archived_at: 2026-09-22T02:17:40.0240890+00:00
 ...
 ---
 ## Summary
