@@ -7,13 +7,15 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: news
 timestamp: 2026-09-21T22:00:35.7757402+00:00
 published_at: 2026-09-21T21:44:38.0000000+00:00
 excerpt: Gov. Tina Kotek declined a Portland debate invitation from KGW and The Oregonian, ending plans for a gubernatorial matchup in the city.
 beat: local
 t_source: source_kgw
+t_feedback: up
+archived_at: 2026-09-22T00:25:31.3221358+00:00
 ...
 ---
 ## Summary
