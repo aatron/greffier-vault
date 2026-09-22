@@ -7,10 +7,12 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-21T05:00:37.9293947+00:00
 t_source: want_hn_want_rust_async
+t_feedback: down
+archived_at: 2026-09-22T01:35:01.7148201+00:00
 ...
 ---
 ## Summary
