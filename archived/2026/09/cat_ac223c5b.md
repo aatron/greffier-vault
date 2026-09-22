@@ -7,13 +7,15 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: news
 timestamp: 2026-09-21T22:00:35.7486638+00:00
 published_at: 2026-09-21T17:20:40.0000000+00:00
 excerpt: 'Prosecutors have linked Jesse Calhoun to the deaths of six women: Libby Gibson, Kristin Smith, Charity Perry, Joanna Speaks, Bridget Webster and Ashley Real.'
 beat: local
 t_source: source_kgw
+t_feedback: down
+archived_at: 2026-09-22T00:25:55.0383142+00:00
 ...
 ---
 ## Summary
