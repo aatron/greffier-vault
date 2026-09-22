@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-21T17:01:07.4047024+00:00
 published_at: 2026-09-21T13:38:19.0000000+00:00
@@ -17,6 +17,8 @@ author: torutofu
 t_suggested_tags:
 - topic/python
 - topic/typescript
+t_feedback: up
+archived_at: 2026-09-22T01:33:43.8167204+00:00
 ...
 ---
 ## Summary
