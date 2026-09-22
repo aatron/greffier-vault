@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-22T12:00:40.5722880+00:00
 published_at: 2026-09-22T07:35:10.0000000-04:00
@@ -15,6 +15,8 @@ excerpt: "The Information : Sources: the Cyberspace Administration of China is i
 t_source: source_techmeme
 t_suggested_tags:
 - topic/ai
+t_feedback: up
+archived_at: 2026-09-22T14:49:56.2481564+00:00
 ...
 ---
 ## Summary
