@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: maybe-tool
 lane: tech
 timestamp: 2026-09-21T12:00:36.1545970+00:00
 published_at: 2026-09-21T11:43:10.0000000+00:00
@@ -17,6 +17,7 @@ t_suggested_tags:
 - topic/git
 - topic/rust
 - topic/typescript
+t_maybe_at: 2026-09-22T01:20:13.2480453+00:00
 ...
 ---
 ## Summary
