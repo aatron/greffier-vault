@@ -1,30 +1,41 @@
 - [[cat_0c420c89|Controversial Portland homeless overnight shelter shutters amid ongoing lawsuit]] — KGW Oregon
+- [[cat_0ce002f3|Right-wing influencer Tommy Allen charged with assault for knocking down protester]] — KGW Oregon
 - [[cat_1917a82a|Girl accuses Braden Peters, social media influencer known as 'Clavicular,' of rape]] — NPR News · Chloe Veltman
+- [[cat_1a287667|Family friend who fatally shot Southeast Portland woman pleads guilty]] — KGW Oregon
 - [[cat_214234a6|Questions remain after grand jury declines indictment in Nolan Wells' death]] — NPR News · Elise Gregg
 - [[cat_26f6e71b|Trump heads to U.N. looking for wins after a rough week]] — NPR News · Franco Ordoñez
 - [[cat_2ea5d5f6|Tigard police sergeant accused of exposing himself at the gym]] — KGW Oregon
 - [[cat_37176a19|Oregon gas prices are technically lower this week, though you could be forgiven for not noticing]] — KGW Oregon
+- [[cat_38d12540|Portland restaurant says red tape, design rules could force $150K patio overhaul]] — KGW Oregon
 - [[cat_3b239b71|Protests outside The Sports Bra turn violent after dispute over transgender athletes in sports]] — KGW Oregon
 - [[cat_51871e06|Fatal crash involving vehicle and motorcycle near Forest Park]] — KGW Oregon
 - [[cat_562fec1e|This 'fire amoeba' pushes the limit of what's possible for complex life]] — NPR News · Ari Daniel
 - [[cat_66afc1cd|New DNA analysis adds evidence Jefferson fathered children with Sally Hemings]] — NPR News · Michel Martin
 - [[cat_6afae9ab|North Portland's century-old Columbia Pool set for demolition this year]] — KGW Oregon
 - [[cat_6bed4f07|Strange mail, stolen address: How fraudsters are exploiting Oregon homeowners]] — KGW Oregon
+- [[cat_6f174528|Armenian national sentenced to 2 years for ransomware attacks, including Oregon company]] — KGW Oregon
 - [[cat_745866c7|The best and biggest games of September]] — NPR News · James Perkins Mastromarino
 - [[cat_74e48d29|Waymo is still mapping Portland as driverless cars await next steps]] — KGW Oregon
 - [[cat_754aae8e|Grand jury finds no evidence of criminal conduct in the death of Nolan Wells]] — NPR News · Elise Gregg
+- [[cat_76db4a06|Man sentenced to 8 years in prison for causing fatal crash by speeding through red light]] — KGW Oregon
 - [[cat_79aed487|TriMet Lift bus driver hits bicyclist in Southeast Portland]] — KGW Oregon
 - [[cat_7f494e4b|U.S. Marshals Service arrests 3 suspects in deadly Chelan Hills Fire]] — KGW Oregon
 - [[cat_82de7f48|Inside a 'modern slavery situation' where cyber scammers are victims themselves]] — NPR News · Terry Gross
+- [[cat_872d4517|Suspect arrested in homicide at Southeast Portland apartment complex]] — KGW Oregon
 - [[cat_8bbafeae|The House Freedom Caucus has to transform — it could preview the GOP's post-Trump era]] — NPR News · Eric McDaniel
+- [[cat_93093038|Rising diesel prices squeeze Oregon farmers]] — KGW Oregon
 - [[cat_94376c53|U.S. childcare costs are astronomical. More families are turning to grandparents]] — NPR News · Joe Hernandez
 - [[cat_acb1761f|How unarmed 911 teams are reshaping public safety in nearly 100 cities]] — NPR News · Meg Anderson
+- [[cat_adea004e|Seattle, King County sue Trump administration over new ‘public charge’ immigration rule]] — KGW Oregon
 - [[cat_b1a7d4e2|Pedestrian struck and killed by car in Vancouver]] — KGW Oregon
 - [[cat_b65f3153|Sri Lanka court convicts 15 over deadly 2019 Easter bombings]] — NPR News · The Associated Press
 - [[cat_bb4f8beb|First new Amtrak Cascades trains enter service Sept. 30]] — KGW Oregon
+- [[cat_bfeff180|Portland is giving away free trees. Here’s how to get one]] — KGW Oregon
 - [[cat_c09a8197|Abortion is on the ballot again as post-Roe policies continue to evolve]] — NPR News · Bram Sable-Smith
 - [[cat_c14ea942|AI solved one of math's hardest problems. Humanity learned nothing (so far)]] — NPR News · Geoff Brumfiel
 - [[cat_c3453bd4|Fields Park in Northwest Portland reopens more than 6 weeks after Centennial Mills fire]] — KGW Oregon
+- [[cat_c5060c99|Multnomah County shares inside look at elections and ballot counting process]] — KGW Oregon
+- [[cat_c6550915|13 arrested, $2,200 in stolen goods recovered during Jantzen Beach operation]] — KGW Oregon
 - [[cat_c6d67f48|Police identify man who died after shooting in Northeast Portland Home Depot parking lot]] — KGW Oregon
 - [[cat_ccfb7280|Nike staff accused of trying to cover up teen athlete's sexual assault]] — KGW Oregon
 - [[cat_d3b058cf|White House launches 'Trump TV' after ban on major news outlets]] — NPR News · Scott Neuman
@@ -39,6 +50,7 @@
 - [[cat_eaaec188|Amazon plans drone delivery as it expands its Portland presence]] — KGW Oregon
 - [[cat_ead5a551|Explore Round Lake, Lower Falls and the trails of Lacamas Park in Camas]] — KGW Oregon
 - [[cat_ee367b70|Seattle is prime habitat for coyotes, UW researchers find]] — KGW Oregon
+- [[cat_f7830818|Washington boy fends off black bear attack in his own backyard]] — KGW Oregon
 - [[cat_f7f67894|Trump says his D.C. arch will serve as 'military complex' with snipers and drones]] — NPR News · Kristin Wright
 - [[cat_fa7a69c5|Washington County commissioners demand chair resign after flipping off fellow commissioner]] — KGW Oregon
 - [[cat_ff30c9c2|Clark County Sheriff seeks help identifying Minnehaha car prowler]] — KGW Oregon

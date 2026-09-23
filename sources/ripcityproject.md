@@ -8,7 +8,7 @@ lane: news
 beat: sports
 show_all: true
 health: unhealthy
-fetch_failures: 9
+fetch_failures: 10
 last_fetch_error: HTTP 403
 ...
 ---

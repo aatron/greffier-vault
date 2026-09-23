@@ -1,0 +1,3 @@
+- [[cat_2b6bc760|Announcing .NET 10]] — 2d stale (horizon: read-today)
+- [[cat_3af980a4|The Morning Brew #3993]] — 2d stale (horizon: read-today)
+- [[cat_4771fda7|AI coding has made CI a bottleneck, so we reworked ours to keep up]] — 2d stale (horizon: read-today)

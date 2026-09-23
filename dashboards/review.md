@@ -1,15 +1,23 @@
+- [[cat_00a182b8|Alibaba says it plans to build its first cloud regions in Turkey, Finland, and the Netherlands over the next 12 months, amid escalating US-China AI tensions (Bloomberg)]] — Techmeme
+- [[cat_029679c8|Anthropic and OpenEvidence partner to offer a specialized version of OpenEvidence's AI search tool for physicians in about 100 low- and middle-income countries (Nancy Lapid/Reuters)]] — Techmeme
+- [[cat_0be0d814|Sources: AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025 (Anna Tong/Forbes)]] — Techmeme
 - [[cat_0c31c5df|The Economics of Open-Weight Inference]] — Hacker News Frontpage · marinesebastian
 - [[cat_0e9c5270|OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005]] — Hacker News Frontpage · sohkamyung
 - [[cat_1058af77|Writing Rust code that's fast by asking agents to make the code faster]] — Hacker News Frontpage · mooreds
 - [[cat_1394456f|UK Prime Minister Andy Burnham says he plans to use the UK's upcoming G20 presidency to broker a global AI governance deal, ahead of the UN General Assembly (Politico)]] — Techmeme
 - [[cat_17af2975|Apple announces new $350 Beats 360 headphones, with IPX4 rating, swappable ear cups, a replaceable battery, ANC, Find My support, and more (John Higgins/The Verge)]] — Techmeme
+- [[cat_1be7df54|Xbox has become a shell of its former self, weighed down by job cuts and studio closures, as it focuses on franchises like Halo and reaching "a billion people" (Andrew Webster/The Verge)]] — Techmeme
 - [[cat_1d9594d7|pawurb/hotpath-rs - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.]]
 - [[cat_210e145d|Show HN: JevBench, a reproducible benchmark for typed decision models]] — Hacker News Frontpage · florianstandhar
+- [[cat_237574c8|Six major banks, including BOA and Capital One, warn that increased autonomy for agentic commerce chatbots could lead to more scams, fraud, and disputes (Ece Yildirim/Gizmodo)]] — Techmeme
 - [[cat_2508b74a|In his UN General Assembly speech, President Trump says the US is "officially" renaming AI to "super intelligence" because "artificial" makes it sound fake (Richard Lawler/The Verge)]] — Techmeme
+- [[cat_2a8f7747|Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B (James Rundle/Wall Street Journal)]] — Techmeme
 - [[cat_2d3a18d5|Microsoft lays off 268 Xbox staffers across Halo and other studios, as part of an ongoing gaming "reset"; Activision will take over Halo and two other games (Tom Warren/The Verge)]] — Techmeme
 - [[cat_34d50657|Announcing .NET 11 Release Candidate 1]] — .NET Blog · .NET Team
+- [[cat_387024d4|deepso7/minip2p - A minimal, caller-driven libp2p implementation in Rust: QUIC and TCP, no_std-friendly, Sans-I/O, and no async runtime.]]
 - [[cat_3fbe0f52|16-bit Intel 8088 chip]] — Hacker News Frontpage · rbanffy
 - [[cat_446a1129|A WordPress vulnerability scored 9.2/10 is present in all versions since 2016]] — Hacker News Frontpage · vntok
+- [[cat_45b913d0|smiti1642/oxvif - Async ONVIF client for IP cameras (Profile S/T/G) in Rust — discovery, PTZ, media, imaging & events.]]
 - [[cat_4818b227|Sources: after a deadly school strike in Iran, US Central Command changed its targeting process, integrated open-source data, and upgraded Palantir's Maven (Katrina Manson/Bloomberg)]] — Techmeme
 - [[cat_4a2af11a|Internal data: Meta's Muse surpassed 500,000 total users, including 250,000 daily active users, with more than 2M prompts submitted in its first week (Jyoti Mann/The Information)]] — Techmeme
 - [[cat_4ae25ef6|OpenAI is well positioned to fast-follow Jev]] — Hacker News Frontpage · JohnBerryman
@@ -19,32 +27,46 @@
 - [[cat_522fefc8|I asked Meta’s Muse for its filesystem and it sent me 6.8GB]] — Hacker News Frontpage · Aeroi
 - [[cat_57542a15|powersemmi/ruststream - An async messaging framework for Rust]]
 - [[cat_57f0ecc9|Xbox continues its “reset” with dramatic restructuring]] — Hacker News Frontpage · dgrin91
+- [[cat_57f8edf1|Transit rewards (Waymo pays you to take the train)]] — Hacker News Frontpage · raybb
 - [[cat_5822e54c|Meta’s Muse has a serious 0-day]] — Hacker News Frontpage · pavel_lishin
+- [[cat_5a239507|Obscura: VPN that can't log your activity]] — Hacker News Frontpage · Flimm
 - [[cat_5af8b33a|Anthropic says Opus 5.5 matches Fable 5.1 "on most tasks" while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens (Matthias Bastian/The Decoder)]] — Techmeme
 - [[cat_604d5d46|Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor]] — Hacker News Frontpage · guanming0717
 - [[cat_60b2dab8|Data Center Watch: 45 US data center projects valued at $68B were blocked or delayed by local opposition between April and June, or 50%+ of large developments (Newley Purnell/Bloomberg)]] — Techmeme
 - [[cat_61e37436|There's a high chance of devices being sold with GrapheneOS preinstalled in 2027]] — Hacker News Frontpage · Cider9986
 - [[cat_62fc72bd|Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived]] — Hacker News Frontpage · boredjohnny
 - [[cat_65988df7|Unreal Agent]] — Hacker News Frontpage · trollied
+- [[cat_668796e6|Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python]]
 - [[cat_66efa67d|In his UN General Assembly speech, Trump rejects a "globalist scheme to control" AI, saying the US is "leading now over China by a lot and everyone else" (Financial Times)]] — Techmeme
 - [[cat_68581854|Sources: in a London presentation, SpaceXAI says Grok Bot hit 418,000 users as of September 14, up 24% from the week prior; SpaceXAI launched it in mid-August (Edward Ludlow/Bloomberg)]] — Techmeme
 - [[cat_6a637885|Sources: Mirendil, founded by former Anthropic researchers to build self-improving AI, is in talks to raise ~$1B led by Kleiner Perkins at a $5B valuation (Bloomberg)]] — Techmeme
+- [[cat_6b9024bc|Go.AI, which offers on-premises AI hardware and software tools for regulated organizations like banks, raised an $85M Series A led by Updata Partners (Ryan Lawler/Axios)]] — Techmeme
+- [[cat_6bbb168b|The current balance of power in open models]] — Hacker News Frontpage · gmays
 - [[cat_6e5cf5d2|An update on how we confirm your age group on Discord]] — Hacker News Frontpage · meetpateltech
 - [[cat_71589b99|Aging may be a program, not a breakdown]] — Hacker News Frontpage · elo2000
 - [[cat_725f1e2d|The UV index is not the warm sensation of sunlight on bare skin]] — Hacker News Frontpage · evakhoury
 - [[cat_73de8f25|Claude Opus 5.5]] — Hacker News Frontpage · throwaway371647
 - [[cat_7551bfa6|'We hacked the FBI:' Hackers say they have data on all FBI employees]] — Hacker News Frontpage · spenvo
 - [[cat_826a0414|Americans' Drinking Remains at Record Low: Gallup Poll]] — Hacker News Frontpage · randycupertino
+- [[cat_83f9c406|Data-Only Attacks Are Easier Than You Think]] — Hacker News Frontpage · segfaultbuserr
+- [[cat_845af514|monosans/proxy-scraper-checker - Fast proxy scraper and checker written in Rust. Collects HTTP, SOCKS4 and SOCKS5 proxies from any number of sources, verifies each one really works, and writes JSON and plain text with response time, exit IP, ASN and geolocation. Single binary for Windows, Linux, macOS and Android, with an interactive TUI.]]
+- [[cat_84afc930|Creating a memory dump in C#]] — .NET Blog · Aaron Powell
 - [[cat_88ceb785|GPT-6 Sol and Luna]] — Hacker News Frontpage · OfficialTurkey
 - [[cat_8afae148|Native apps written in TypeScript and CSS]] — Hacker News Frontpage · arbayi
+- [[cat_9072ad27|Microsoft says it will give DARPA on-site access to its latest quantum computing hardware, including the Majorana 2 chip, at its new Maryland research center (Stephen Nellis/Reuters)]] — Techmeme
+- [[cat_9b670b37|Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device (Julian Chokkattu/Wired)]] — Techmeme
+- [[cat_9e515486|tokio-rs/toasty - An async ORM for Rust]]
 - [[cat_a3844cf3|ManuGits99/iplookup.rs - 🌐 Retrieve your IP address easily with this minimal Rust-based terminal interface featuring a clean design and a responsive button.]]
+- [[cat_b363e3cc|What California is learning from solar panels built over irrigation canals]] — Hacker News Frontpage · Jtsummers
 - [[cat_b393f0b9|The JavaScript Midlife Crisis]] — Hacker News Frontpage · maroun-baydoun
 - [[cat_b69ca305|Why AGI Will Not Happen]] — timdettmers.com · Tim Dettmers
+- [[cat_bcc8a07b|Discord rolls out its updated age-verification policy this week, sorting users into either the Adult or Teen group based on account age, activity levels, more (Anna Washenko/Engadget)]] — Techmeme
 - [[cat_bdeff087|Sources: Apple is developing prototypes for a screenless health and fitness tracker similar to Whoop but hasn't decided whether to release the product (Mark Gurman/Bloomberg)]] — Techmeme
 - [[cat_c1eb6945|Sources: Scott Bessent is emerging as a frontrunner for the AI czar position; other names include WH OSTP Director Michael Kratsios and OPM Director Scott Kupor (Semafor)]] — Techmeme
 - [[cat_c559bd48|Sources: Xi Jinping is unlikely to bring corporate executives to his DC summit with Trump; industry officials expected them at a dinner with top US tech CEOs (Wall Street Journal)]] — Techmeme
 - [[cat_c736f577|Adobe launches its free Premiere video editing app on Android, nearly a year after its iOS launch, to replace Premiere Rush, set to lose support on September 30 (Julian Chokkattu/Wired)]] — Techmeme
 - [[cat_c91e835a|Apple has added persistent 'ads' to iOS, and it's driving users crazy]] — Hacker News Frontpage · MC995
+- [[cat_ca45e844|Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital (Maria Deutscher/SiliconANGLE)]] — Techmeme
 - [[cat_cd1d2e06|Nat Friedman says Meta built Muse "from scratch" but was "heavily inspired" by OpenClaw, as users compare the two, including calling Muse "OpenClaw for normies" (Sarah Perez/TechCrunch)]] — Techmeme
 - [[cat_cdb5a85b|LLM Ass Bench]] — Hacker News Frontpage · fragmede
 - [[cat_d33ad5e1|Snorkel AI, which offers an "agentic data development platform" with humans and AI agents to create and vet data, raised $350M at a $3.5B valuation (Krystal Hu/Reuters)]] — Techmeme
@@ -52,6 +74,7 @@
 - [[cat_e05f852c|Sources: multiple staff at the UK's AISI have been signed off work with stress, as tight model release schedules and AI fears lead to low morale and burnout (Financial Times)]] — Techmeme
 - [[cat_e15498e4|San Francisco sues Trump Media & Technology, claiming its Truth API service violates California's Unfair Competition Law by creating an insider trading market (Heather Knight/New York Times)]] — Techmeme
 - [[cat_e25e0655|The Austrian Academy of Science, Mistral, and Sail Reply plan to launch Apollo, an Ancient Greek LLM trained on ~600M historical Greek words, available for free (Joel Khalili/Wired)]] — Techmeme
+- [[cat_e44e86e3|US criticises Australia's proposed algorithm opt-out laws as 'censorship']] — Hacker News Frontpage · 1659447091
 - [[cat_e46687f4|GPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6 (Nat Rubio-Licht/The Deep View)]] — Techmeme
 - [[cat_e567e3ab|Qualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC's 2nm process, with two 5GHz prime cores and six 4GHz performance cores (Axel Metz/TechRadar)]] — Techmeme
 - [[cat_e6f1e55c|Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why]] — Hacker News Frontpage · ZaharaHussain
