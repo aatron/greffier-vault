@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-23T17:00:42.5742958+00:00
 published_at: 2026-09-23T12:01:04.0000000+00:00
@@ -16,6 +16,8 @@ t_source: source_hn
 author: nhourcard
 t_suggested_tags:
 - topic/typescript
+t_feedback: down
+archived_at: 2026-09-23T17:12:03.2085066+00:00
 ...
 ---
 ## Summary
