@@ -1,5 +1,6 @@
 - [[cat_0c420c89|Controversial Portland homeless overnight shelter shutters amid ongoing lawsuit]] — KGW Oregon
 - [[cat_0ce002f3|Right-wing influencer Tommy Allen charged with assault for knocking down protester]] — KGW Oregon
+- [[cat_13eeee86|How an 'AI freeze' could make big AI companies bigger and hurt smaller firms]] — NPR News · Bobby Allyn
 - [[cat_1917a82a|Girl accuses Braden Peters, social media influencer known as 'Clavicular,' of rape]] — NPR News · Chloe Veltman
 - [[cat_1a287667|Family friend who fatally shot Southeast Portland woman pleads guilty]] — KGW Oregon
 - [[cat_214234a6|Questions remain after grand jury declines indictment in Nolan Wells' death]] — NPR News · Elise Gregg
@@ -8,8 +9,12 @@
 - [[cat_37176a19|Oregon gas prices are technically lower this week, though you could be forgiven for not noticing]] — KGW Oregon
 - [[cat_38d12540|Portland restaurant says red tape, design rules could force $150K patio overhaul]] — KGW Oregon
 - [[cat_3b239b71|Protests outside The Sports Bra turn violent after dispute over transgender athletes in sports]] — KGW Oregon
+- [[cat_40e28be2|Major news outlets banned by Trump will have their day in court]] — NPR News · David Folkenflik
+- [[cat_45bf63fd|Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers']] — NPR News · Brittney Melton
 - [[cat_51871e06|Fatal crash involving vehicle and motorcycle near Forest Park]] — KGW Oregon
 - [[cat_562fec1e|This 'fire amoeba' pushes the limit of what's possible for complex life]] — NPR News · Ari Daniel
+- [[cat_598e484c|ICE is looking into 'mobile detention facilities']] — NPR News · Jasmine Garsd
+- [[cat_5acd2e8a|DOJ defends White House media ban, urges court to reject lawsuit]] — NPR News · NPR Staff
 - [[cat_66afc1cd|New DNA analysis adds evidence Jefferson fathered children with Sally Hemings]] — NPR News · Michel Martin
 - [[cat_6afae9ab|North Portland's century-old Columbia Pool set for demolition this year]] — KGW Oregon
 - [[cat_6bed4f07|Strange mail, stolen address: How fraudsters are exploiting Oregon homeowners]] — KGW Oregon
@@ -19,8 +24,11 @@
 - [[cat_754aae8e|Grand jury finds no evidence of criminal conduct in the death of Nolan Wells]] — NPR News · Elise Gregg
 - [[cat_76db4a06|Man sentenced to 8 years in prison for causing fatal crash by speeding through red light]] — KGW Oregon
 - [[cat_79aed487|TriMet Lift bus driver hits bicyclist in Southeast Portland]] — KGW Oregon
+- [[cat_7b14e378|Poll: Most voters agree the 2026 midterms are all about Trump — and they disapprove]] — NPR News · Stephen Fowler
 - [[cat_7f494e4b|U.S. Marshals Service arrests 3 suspects in deadly Chelan Hills Fire]] — KGW Oregon
+- [[cat_807c8200|There's growing concern that Trump may deploy the National Guard ahead of elections]] — NPR News · Kat Lonsdorf
 - [[cat_82de7f48|Inside a 'modern slavery situation' where cyber scammers are victims themselves]] — NPR News · Terry Gross
+- [[cat_83675e8b|Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote]] — NPR News · Yuki Noguchi
 - [[cat_872d4517|Suspect arrested in homicide at Southeast Portland apartment complex]] — KGW Oregon
 - [[cat_8bbafeae|The House Freedom Caucus has to transform — it could preview the GOP's post-Trump era]] — NPR News · Eric McDaniel
 - [[cat_93093038|Rising diesel prices squeeze Oregon farmers]] — KGW Oregon
@@ -39,8 +47,10 @@
 - [[cat_c6d67f48|Police identify man who died after shooting in Northeast Portland Home Depot parking lot]] — KGW Oregon
 - [[cat_ccfb7280|Nike staff accused of trying to cover up teen athlete's sexual assault]] — KGW Oregon
 - [[cat_d3b058cf|White House launches 'Trump TV' after ban on major news outlets]] — NPR News · Scott Neuman
+- [[cat_d46b74e2|Is Nepal's flood a harbinger of what's to come in the Himalayas?]] — NPR News · Mamita Bhandari
 - [[cat_d6c61d6e|CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit]] — NPR News · Brittney Melton
 - [[cat_db462b0e|‘This is a solvable problem’: Extreme Ross Island algae bloom could help find a fix]] — KGW Oregon
+- [[cat_db5286a0|As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools]] — NPR News · Eric McDaniel
 - [[cat_dc7d8382|A journalist once barred from the White House says this media ban is different]] — NPR News · Steve Inskeep
 - [[cat_dda5eab1|Canby police justified in using deadly force against man breaking into apartment, grand jury finds]] — KGW Oregon
 - [[cat_dee49eb2|Accused serial killer Jesse Calhoun to appear in court Monday in Ashley Real case]] — KGW Oregon
