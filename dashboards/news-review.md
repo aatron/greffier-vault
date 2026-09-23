@@ -1,3 +1,4 @@
+- [[cat_0a22e5fa|Oregon program aimed at increasing graduation rates needs stronger oversight, audit finds]] — KGW Oregon
 - [[cat_0c420c89|Controversial Portland homeless overnight shelter shutters amid ongoing lawsuit]] — KGW Oregon
 - [[cat_0ce002f3|Right-wing influencer Tommy Allen charged with assault for knocking down protester]] — KGW Oregon
 - [[cat_13eeee86|How an 'AI freeze' could make big AI companies bigger and hurt smaller firms]] — NPR News · Bobby Allyn
@@ -19,8 +20,10 @@
 - [[cat_598e484c|ICE is looking into 'mobile detention facilities']] — NPR News · Jasmine Garsd
 - [[cat_5acd2e8a|DOJ defends White House media ban, urges court to reject lawsuit]] — NPR News · NPR Staff
 - [[cat_66afc1cd|New DNA analysis adds evidence Jefferson fathered children with Sally Hemings]] — NPR News · Michel Martin
+- [[cat_683336af|Trump set to greet Xi for high-stakes state visit]] — NPR News · Jennifer Pak
 - [[cat_6afae9ab|North Portland's century-old Columbia Pool set for demolition this year]] — KGW Oregon
 - [[cat_6bed4f07|Strange mail, stolen address: How fraudsters are exploiting Oregon homeowners]] — KGW Oregon
+- [[cat_6c2dc577|Iran's president gives a rare wartime speech at the U.N.]] — NPR News · Hadeel Al-Shalchi
 - [[cat_6eec3dbd|U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy]] — NPR News · Steve Inskeep
 - [[cat_6f174528|Armenian national sentenced to 2 years for ransomware attacks, including Oregon company]] — KGW Oregon
 - [[cat_745866c7|The best and biggest games of September]] — NPR News · James Perkins Mastromarino
@@ -35,8 +38,10 @@
 - [[cat_83675e8b|Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote]] — NPR News · Yuki Noguchi
 - [[cat_872d4517|Suspect arrested in homicide at Southeast Portland apartment complex]] — KGW Oregon
 - [[cat_8bbafeae|The House Freedom Caucus has to transform — it could preview the GOP's post-Trump era]] — NPR News · Eric McDaniel
+- [[cat_9305a31a|A Catholic media star will be beatified in St. Louis, moving a step closer to sainthood]] — NPR News · Aleja Hertzler-McCain
 - [[cat_93093038|Rising diesel prices squeeze Oregon farmers]] — KGW Oregon
 - [[cat_94376c53|U.S. childcare costs are astronomical. More families are turning to grandparents]] — NPR News · Joe Hernandez
+- [[cat_96ca8fb1|U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy]] — NPR News · Steve Inskeep
 - [[cat_9ffde9b3|Salem-Keizer district plans to close up to eight elementary schools amid declining enrollment]] — KGW Oregon
 - [[cat_a7e4491b|Salem-Keizer projects another major budget reduction as enrollment and state funding decline]] — KGW Oregon
 - [[cat_acb1761f|How unarmed 911 teams are reshaping public safety in nearly 100 cities]] — NPR News · Meg Anderson
@@ -55,6 +60,7 @@
 - [[cat_d3b058cf|White House launches 'Trump TV' after ban on major news outlets]] — NPR News · Scott Neuman
 - [[cat_d46b74e2|Is Nepal's flood a harbinger of what's to come in the Himalayas?]] — NPR News · Mamita Bhandari
 - [[cat_d6c61d6e|CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit]] — NPR News · Brittney Melton
+- [[cat_d967a2a9|Oregon State Parks approves $2M sale of Abiqua Falls]] — KGW Oregon
 - [[cat_db462b0e|‘This is a solvable problem’: Extreme Ross Island algae bloom could help find a fix]] — KGW Oregon
 - [[cat_db5286a0|As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools]] — NPR News · Eric McDaniel
 - [[cat_dc7d8382|A journalist once barred from the White House says this media ban is different]] — NPR News · Steve Inskeep
