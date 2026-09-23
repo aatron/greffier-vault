@@ -1,7 +1,5 @@
-- [[cat_03822caf|Fire Finish Season With One More Dramatic Win]] — https://www.blazersedge.com/portland-fire-wnba/116391/portland-fire-golden-state-valkyries-recap-score-wnba-news-carla-leite-bridget-carleton
 - [[cat_049796b7|Blazers Add Exhibit 10 Players for Training Camp]] — https://www.blazersedge.com/trail-blazers-news/116378/portland-trail-blazers-exhibit-10-players-2026-training-camp
-- [[cat_12458655|Hawks Trade Hield, Nembhard to Hornets for Dorian Finney-Smith]] — https://www.blazersedge.com/nba-news-rumors/116366/hawks-trade-hield-nembhard-to-hornets-for-dorian-finney-smith
-- [[cat_846f34c5|Four Trail Blazers Make ESPN’s NBA Top 100 List So Far]] — https://www.blazersedge.com/trail-blazers-news/116336/espn-top-100-nba-players-list-rankings-2026-portland-trail-blazers
+- [[cat_3367f369|What is the Blazers’ Ceiling/Floor This Season?]] — https://www.blazersedge.com/trail-blazers-podcasts/116342/portland-trail-blazers-2026-27-nba-preview-podcast-analysis-discussion
 - [[cat_b0a9e084|NBA Preseason Rankings: Ringer Doesn’t Believe in New-Look Blazers]] — https://www.blazersedge.com/trail-blazers-news/116328/nba-preseason-rankings-ringer-portland-trail-blazers-2026-spurs-knicks-thunder
 - [[cat_d241e552|Raptors Sign Kawhi Leonard to Huge Contract Extension]] — https://www.blazersedge.com/nba-news-rumors/116370/raptors-sign-kawhi-leonard-to-huge-contract-extension
 - [[cat_ebf0fc8a|Which is Best, Guitars or the Oregon Coast?]] — https://www.blazersedge.com/trail-blazers-discussion-game-threads/116340/best-things-ever-2026-guitars-or-the-oregon-coast-which-is-better

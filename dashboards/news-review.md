@@ -6,18 +6,22 @@
 - [[cat_214234a6|Questions remain after grand jury declines indictment in Nolan Wells' death]] — NPR News · Elise Gregg
 - [[cat_26f6e71b|Trump heads to U.N. looking for wins after a rough week]] — NPR News · Franco Ordoñez
 - [[cat_2ea5d5f6|Tigard police sergeant accused of exposing himself at the gym]] — KGW Oregon
+- [[cat_34641619|Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious]] — NPR News · Rebecca Rosman
 - [[cat_37176a19|Oregon gas prices are technically lower this week, though you could be forgiven for not noticing]] — KGW Oregon
 - [[cat_38d12540|Portland restaurant says red tape, design rules could force $150K patio overhaul]] — KGW Oregon
 - [[cat_3b239b71|Protests outside The Sports Bra turn violent after dispute over transgender athletes in sports]] — KGW Oregon
+- [[cat_3f45d9bc|From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi]] — NPR News · Terry Gross
 - [[cat_40e28be2|Major news outlets banned by Trump will have their day in court]] — NPR News · David Folkenflik
 - [[cat_45bf63fd|Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers']] — NPR News · Brittney Melton
 - [[cat_51871e06|Fatal crash involving vehicle and motorcycle near Forest Park]] — KGW Oregon
 - [[cat_562fec1e|This 'fire amoeba' pushes the limit of what's possible for complex life]] — NPR News · Ari Daniel
+- [[cat_587740a5|It's getting harder to afford rent in the U.S., even for middle-income families]] — NPR News · Marissa J. Lang
 - [[cat_598e484c|ICE is looking into 'mobile detention facilities']] — NPR News · Jasmine Garsd
 - [[cat_5acd2e8a|DOJ defends White House media ban, urges court to reject lawsuit]] — NPR News · NPR Staff
 - [[cat_66afc1cd|New DNA analysis adds evidence Jefferson fathered children with Sally Hemings]] — NPR News · Michel Martin
 - [[cat_6afae9ab|North Portland's century-old Columbia Pool set for demolition this year]] — KGW Oregon
 - [[cat_6bed4f07|Strange mail, stolen address: How fraudsters are exploiting Oregon homeowners]] — KGW Oregon
+- [[cat_6eec3dbd|U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy]] — NPR News · Steve Inskeep
 - [[cat_6f174528|Armenian national sentenced to 2 years for ransomware attacks, including Oregon company]] — KGW Oregon
 - [[cat_745866c7|The best and biggest games of September]] — NPR News · James Perkins Mastromarino
 - [[cat_74e48d29|Waymo is still mapping Portland as driverless cars await next steps]] — KGW Oregon
@@ -33,6 +37,8 @@
 - [[cat_8bbafeae|The House Freedom Caucus has to transform — it could preview the GOP's post-Trump era]] — NPR News · Eric McDaniel
 - [[cat_93093038|Rising diesel prices squeeze Oregon farmers]] — KGW Oregon
 - [[cat_94376c53|U.S. childcare costs are astronomical. More families are turning to grandparents]] — NPR News · Joe Hernandez
+- [[cat_9ffde9b3|Salem-Keizer district plans to close up to eight elementary schools amid declining enrollment]] — KGW Oregon
+- [[cat_a7e4491b|Salem-Keizer projects another major budget reduction as enrollment and state funding decline]] — KGW Oregon
 - [[cat_acb1761f|How unarmed 911 teams are reshaping public safety in nearly 100 cities]] — NPR News · Meg Anderson
 - [[cat_adea004e|Seattle, King County sue Trump administration over new ‘public charge’ immigration rule]] — KGW Oregon
 - [[cat_b1a7d4e2|Pedestrian struck and killed by car in Vancouver]] — KGW Oregon
@@ -60,7 +66,9 @@
 - [[cat_eaaec188|Amazon plans drone delivery as it expands its Portland presence]] — KGW Oregon
 - [[cat_ead5a551|Explore Round Lake, Lower Falls and the trails of Lacamas Park in Camas]] — KGW Oregon
 - [[cat_ee367b70|Seattle is prime habitat for coyotes, UW researchers find]] — KGW Oregon
+- [[cat_f043ebc7|Teen arrested after high-speed crash sparked 15K-acre East Evans Creek Fire, investigators say]] — KGW Oregon
 - [[cat_f7830818|Washington boy fends off black bear attack in his own backyard]] — KGW Oregon
 - [[cat_f7f67894|Trump says his D.C. arch will serve as 'military complex' with snipers and drones]] — NPR News · Kristin Wright
 - [[cat_fa7a69c5|Washington County commissioners demand chair resign after flipping off fellow commissioner]] — KGW Oregon
+- [[cat_ff1ca10f|'This type of abuse doesn't happen once': More survivors allege sexual abuse at Clark County's juvenile detention facility]] — KGW Oregon
 - [[cat_ff30c9c2|Clark County Sheriff seeks help identifying Minnehaha car prowler]] — KGW Oregon
