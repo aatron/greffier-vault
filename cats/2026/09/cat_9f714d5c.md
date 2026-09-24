@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-later
+horizon: maybe-tool
 lane: tech
 timestamp: 2026-09-21T05:00:37.9211400+00:00
 t_source: source_dotnet
@@ -24,6 +24,7 @@ d_child_count: 0
 d_blocked: false
 d_last_touched: 2026-09-21
 d_staleness_days: 2
+t_maybe_at: 2026-09-24T05:00:37.0901363+00:00
 ...
 ---
 ## Summary
