@@ -7,12 +7,14 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-22T05:00:34.4456664+00:00
 published_at: 2026-09-21T23:30:01.0000000-04:00
 excerpt: 'Reuters : Alibaba CEO Eddie Wu says the company plans to train a 5T- to 10T-parameter AI model, as it lays out a sweeping push across AI models, chips, and data centers — Alibaba Group (9988.HK) plans to train a new artificial intelligence model with 5 trillion to 10 trillion parameters …'
 t_source: source_techmeme
+t_feedback: up
+archived_at: 2026-09-24T01:09:10.8046639+00:00
 ...
 ---
 ## Summary
