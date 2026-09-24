@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-22T12:00:40.6004017+00:00
 published_at: 2025-12-18T19:44:54.0000000+00:00
@@ -16,6 +16,8 @@ t_source: source_auto_ycombinator_com
 author: Y Combinator
 t_suggested_tags:
 - topic/typescript
+t_feedback: up
+archived_at: 2026-09-24T01:10:08.0020847+00:00
 ...
 ---
 ## Summary
