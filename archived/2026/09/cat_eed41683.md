@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-22T22:00:43.9444902+00:00
 published_at: 2026-09-22T15:30:01.0000000-04:00
@@ -15,6 +15,8 @@ excerpt: 'Stephanie Palazzolo / The Information : New York-based Ande, whose AI 
 t_source: source_techmeme
 t_suggested_tags:
 - topic/typescript
+t_feedback: up
+archived_at: 2026-09-24T01:10:33.0935223+00:00
 ...
 ---
 ## Summary
