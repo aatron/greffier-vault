@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-22T22:00:42.2393946+00:00
 published_at: 2026-09-22T18:10:31.0000000+00:00
@@ -16,6 +16,8 @@ t_source: source_hn
 author: meetpateltech
 t_suggested_tags:
 - topic/typescript
+t_feedback: down
+archived_at: 2026-09-24T04:47:08.5892911+00:00
 ...
 ---
 ## Summary
