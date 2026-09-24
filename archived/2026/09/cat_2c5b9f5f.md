@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-23T12:01:29.6834078+00:00
 published_at: 2026-09-22T16:51:31.0000000+00:00
@@ -18,6 +18,8 @@ t_suggested_tags:
 - topic/ai
 - topic/performance
 - topic/typescript
+t_feedback: up
+archived_at: 2026-09-24T01:01:47.2153312+00:00
 ...
 ---
 ## Summary
