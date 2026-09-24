@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-23T17:00:42.9926264+00:00
 published_at: 2026-09-23T16:35:34.0000000+00:00
@@ -16,6 +16,8 @@ t_source: source_hn
 author: rubatrejo
 t_suggested_tags:
 - topic/typescript
+t_feedback: up
+archived_at: 2026-09-24T04:48:18.5889462+00:00
 ...
 ---
 ## Summary
