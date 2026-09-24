@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-later
+horizon: archive
 lane: tech
 timestamp: 2026-09-22T12:00:39.9202244+00:00
 published_at: 2026-09-22T08:39:43.0000000+00:00
@@ -27,6 +27,8 @@ d_child_count: 0
 d_blocked: false
 d_last_touched: 2026-09-22
 d_staleness_days: 1
+t_feedback: up
+archived_at: 2026-09-24T05:00:30.5894388+00:00
 ...
 ---
 ## Summary
