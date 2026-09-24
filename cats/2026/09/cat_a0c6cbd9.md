@@ -18,6 +18,15 @@ t_suggested_tags:
 - topic/git
 - topic/rust
 t_maybe_at: 2026-09-24T04:51:17.5482942+00:00
+d_effective_priority: 1.75
+d_open_tasks_own: 0
+d_open_tasks_tree: 0
+d_percent_complete: 0
+d_depth: 0
+d_child_count: 0
+d_blocked: false
+d_last_touched: 2026-09-23
+d_staleness_days: 1
 ...
 ---
 ## Summary

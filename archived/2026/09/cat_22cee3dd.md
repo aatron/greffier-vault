@@ -26,9 +26,13 @@ d_depth: 0
 d_child_count: 0
 d_blocked: false
 d_last_touched: 2026-09-22
+<<<<<<< Updated upstream:archived/2026/09/cat_22cee3dd.md
 d_staleness_days: 1
 t_feedback: up
 archived_at: 2026-09-24T05:00:30.5894388+00:00
+=======
+d_staleness_days: 2
+>>>>>>> Stashed changes:cats/2026/09/cat_22cee3dd.md
 ...
 ---
 ## Summary

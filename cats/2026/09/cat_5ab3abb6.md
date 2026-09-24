@@ -30,7 +30,7 @@ d_depth: 0
 d_child_count: 0
 d_blocked: false
 d_last_touched: 2026-09-22
-d_staleness_days: 1
+d_staleness_days: 2
 ...
 ---
 ## Summary

@@ -23,8 +23,12 @@ d_depth: 0
 d_child_count: 0
 d_blocked: false
 d_last_touched: 2026-09-21
+<<<<<<< Updated upstream
 d_staleness_days: 2
 t_maybe_at: 2026-09-24T05:00:37.0901363+00:00
+=======
+d_staleness_days: 3
+>>>>>>> Stashed changes
 ...
 ---
 ## Summary

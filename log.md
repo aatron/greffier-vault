@@ -316,3 +316,23 @@
 - discovery proposals: 0
 - rollup: complete
 
+
+## Triage 2026-09-24 05:00:47 UTC
+- processed: 45
+- auto-filed: 0
+- today budget selected: 0
+- tokens (est): 25650
+
+
+## Discovery 2026-09-24T05:00:53.5805595+00:00
+- demote source: source_katu reason=unhealthy domain=katu.com
+- demote source: source_ripcity reason=unhealthy domain=ripcityproject.com
+
+## Run 2026-09-24 05:00:53 UTC
+- ingest staged: 41
+- want-sweep staged: 4
+- triage processed: 45
+- shopping archived: 0 (checked 10)
+- discovery proposals: 0
+- rollup: complete
+
