@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-23T17:00:42.7876780+00:00
 published_at: 2026-09-23T15:23:05.0000000+00:00
@@ -17,6 +17,8 @@ author: lostmsu
 t_suggested_tags:
 - topic/security
 - topic/typescript
+t_feedback: up
+archived_at: 2026-09-24T01:02:06.7979988+00:00
 ...
 ---
 ## Summary
