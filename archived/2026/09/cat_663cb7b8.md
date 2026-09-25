@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: tech
 timestamp: 2026-09-24T05:00:46.5778544+00:00
 published_at: 2026-09-23T23:50:02.0000000-04:00
@@ -15,6 +15,8 @@ excerpt: 'Laura Bratton / The Information : Google DeepMind SVP Koray Kavukcuogl
 t_source: source_techmeme
 t_suggested_tags:
 - topic/typescript
+t_feedback: up
+archived_at: 2026-09-25T05:41:09.3982410+00:00
 ...
 ---
 ## Summary
