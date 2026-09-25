@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: news
 timestamp: 2026-09-22T12:00:40.5838948+00:00
 published_at: 2026-09-22T06:59:37.0000000-04:00
@@ -15,6 +15,8 @@ excerpt: 'As the U.S. conflict with Iran drags, the Iranian-backed Houthis in Ye
 beat: national
 t_source: source_npr
 author: Aya Batrawy
+t_feedback: up
+archived_at: 2026-09-25T05:49:25.6646642+00:00
 ...
 ---
 ## Summary
