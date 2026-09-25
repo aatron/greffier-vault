@@ -7,13 +7,15 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: news
 timestamp: 2026-09-23T17:00:43.3223639+00:00
 published_at: 2026-09-23T12:22:59.0000000+00:00
 excerpt: One of the alleged abusers, specifically named in court documents, was promoted by the county last month.
 beat: local
 t_source: source_kgw
+t_feedback: up
+archived_at: 2026-09-25T05:49:13.1607499+00:00
 ...
 ---
 ## Summary
