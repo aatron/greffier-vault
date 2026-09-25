@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: news
 timestamp: 2026-09-22T12:00:40.5598714+00:00
 published_at: 2026-09-22T05:00:00.0000000-04:00
@@ -15,6 +15,8 @@ excerpt: "Alternative response programs, where mental health clinicians respond 
 beat: national
 t_source: source_npr
 author: Meg Anderson
+t_feedback: up
+archived_at: 2026-09-25T05:55:43.4892570+00:00
 ...
 ---
 ## Summary
