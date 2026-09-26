@@ -7,7 +7,7 @@ t_confidence: 0.6499999999999999
 t_relevance: 0.7
 t_signal: 0.6
 t_reading_minutes: 1
-horizon: read-today
+horizon: archive
 lane: shopping
 timestamp: 2026-09-22T22:00:43.2474579+00:00
 published_at: 2026-09-22T18:00:00.0000000+00:00
@@ -15,6 +15,8 @@ excerpt: 'Make your party and foes alike quake in fear at your gorgeously custom
 t_source: source_humble_software
 t_suggested_tags:
 - topic/typescript
+t_feedback: down
+archived_at: 2026-09-26T13:34:16.9437939+00:00
 ...
 ---
 ## Summary
